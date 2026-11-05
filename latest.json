@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.97",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.97/Mekano.apk",
+    "version": "1.0.98",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.98/Mekano.apk",
     "size": 4265698,
-    "sha256": "8cc533b1e589cc23a8a5bac2f9684310fa5d68c0bb648a16cbd6e69426ed36c6",
+    "sha256": "acdbb390521c80648db6ffc051ec2128b4379a9d9ea017c15dc358d856223cd0",
     "at": "2026-11-05",
     "notes": [
       "PC: PIN bisa diketik lewat keyboard, kartu geser bisa diseret dengan mouse, Enter/Esc di dialog dan formulir",
