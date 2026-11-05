@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.112",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.112/Mekano.apk",
+    "version": "1.0.113",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.113/Mekano.apk",
     "size": 4335906,
-    "sha256": "6bb461452a89b8c65d84c28a773ff2434b42fc9c09b3908225e8fbbbbd8630ae",
+    "sha256": "ad4cde89c9a6719ffe529a8ece9021bfbd2e243ebaf0917ae6332b6b04abde10",
     "at": "2026-11-05",
     "notes": [
       "Pro: Kartu keuangan di tema Oranye, Merah, dan Ungu lebih gelap supaya teksnya terbaca",
