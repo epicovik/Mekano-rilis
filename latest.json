@@ -1,16 +1,16 @@
 {
   "android": {
-    "version": "1.0.103",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.103/Mekano.apk",
-    "size": 4275378,
-    "sha256": "1650bd34987f9f0494ae1d57694464f5a9fec408053f8798684e9b8adc592087",
+    "version": "1.0.104",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.104/Mekano.apk",
+    "size": 4276658,
+    "sha256": "1eaff03c61ce6e19b23a4b50b1235f6e05d02351fc39db3d0f88ee2241a2dbed",
     "at": "2026-11-05",
     "notes": [
-      "Mekano Pro: Warna tema dibuat ulang, dua warna lembut dan satu warna mencolok",
-      "Mekano Pro: Hijau Mekano kini berpadu kuning, Merah Racing berpadu biru es",
-      "Mekano Pro: Oranye Oli, Biru Laut, dan Ungu Malam memakai palet baru",
-      "Tombol utama, invoice, rapor, kartu progres, dan Ruang Tunggu mengikuti warna tema",
-      "Pemilih warna menampilkan tiga warna tiap tema"
+      "Mekano Pro: Tampilan baru bertema warna, latar warna utama, kartu putih, tombol bulat berwarna mencolok",
+      "Mekano Pro: Hijau Mekano berpadu kuning, Merah Racing berpadu biru es, tiga tema lain dari palet baru",
+      "Ruang Tunggu pelanggan ikut tampil dengan gaya yang sama",
+      "Bilah progres, tombol utama, dan bilah bawah memakai warna aksen tema",
+      "Pemilih warna menampilkan tiga warna tiap tema (mode gelap tetap rapi)"
     ]
   },
   "min": {
