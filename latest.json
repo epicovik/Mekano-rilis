@@ -1,18 +1,19 @@
 {
   "android": {
-    "version": "1.0.96",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.96/Mekano.apk",
-    "size": 4263662,
-    "sha256": "2d2ee9ce15fc9f04d3587f0da016fddc4783390044fd88280b82c9458d2c797d",
+    "version": "1.0.97",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.97/Mekano.apk",
+    "size": 4265698,
+    "sha256": "8cc533b1e589cc23a8a5bac2f9684310fa5d68c0bb648a16cbd6e69426ed36c6",
     "at": "2026-11-05",
     "notes": [
+      "PC: PIN bisa diketik lewat keyboard, kartu geser bisa diseret dengan mouse, Enter/Esc di dialog dan formulir",
+      "PC: tombol Cetak lewat dialog Windows untuk invoice, progres, pembayaran, dan rapor",
       "Data Master Motor: tombol Muat motor listrik populer kini tersedia untuk semua kelas (tanpa modul EV)",
       "Kartu pembaruan baru di Beranda yang mencolok, versi aplikasi tampil di Beranda, menu Pembaruan terpisah dari Printer di Setelan",
       "Perbaikan: Logger Suspensi tidak lagi muncul di SPK Baterai EV",
       "Data Master Baterai EV: database baterai, tombol muat baterai populer dan motor listrik populer",
       "Isi otomatis spesifikasi baterai saat membuat SPK Baterai",
-      "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai",
-      "Garansi pekerjaan, tag titipan + lokasi rak, foto sebelum dan sesudah di laporan"
+      "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai"
     ]
   },
   "min": {
