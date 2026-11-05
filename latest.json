@@ -20,12 +20,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120832142,
-    "sha256": "2f3e2caaad94c5fa110cca1451d49d864b035914b4bb3f50b0e90248b8e9ac7e",
+    "size": 120832250,
+    "sha256": "9951f9bd370f59db28c28cea24f6806c841f10040f07274c1c5c386c68f212f2",
     "at": "2026-11-05",
     "notes": [
+      "Data Master Motor: tombol Muat motor listrik populer kini tersedia untuk semua kelas (tanpa modul EV)",
       "Kartu pembaruan baru di Beranda yang mencolok, versi aplikasi tampil di Beranda, menu Pembaruan terpisah dari Printer di Setelan",
       "Perbaikan: Logger Suspensi tidak lagi muncul di SPK Baterai EV",
       "Data Master Baterai EV: database baterai, tombol muat baterai populer dan motor listrik populer",
