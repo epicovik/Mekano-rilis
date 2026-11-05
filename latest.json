@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.99",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.99/Mekano.apk",
-    "size": 4275122,
-    "sha256": "bde177f8921d08420f3d53dc51d0f18335d8a326247546716bdde968f10be1ab",
+    "version": "1.0.100",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.100/Mekano.apk",
+    "size": 4275126,
+    "sha256": "ff892699c4a43b174e68cc3a7939ce2fce48f89e4ee262e81c3c416ec14119eb",
     "at": "2026-11-05",
     "notes": [
       "PC: Beranda dua kolom — KPI, grafik, \"Sedang dikerjakan\", serta perhatian dan pintasan di sisi kanan",
