@@ -18,17 +18,17 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.12",
+    "version": "1.0.13",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120840152,
-    "sha256": "6e29546eb6efe5205a9f8302d2ad8878af7f1f8a691a898f4a440c81da58a9d5",
+    "size": 120841172,
+    "sha256": "be2404bb9e8fddd18a5ba6be7a460916fc408e8888ea19070000658bb62d33a1",
     "at": "2026-11-05",
     "notes": [
-      "Mekano Pro: Warna tema dibuat ulang, dua warna lembut dan satu warna mencolok",
-      "Mekano Pro: Hijau Mekano kini berpadu kuning, Merah Racing berpadu biru es",
-      "Mekano Pro: Oranye Oli, Biru Laut, dan Ungu Malam memakai palet baru",
-      "Tombol utama, invoice, rapor, kartu progres, dan Ruang Tunggu mengikuti warna tema",
-      "Pemilih warna menampilkan tiga warna tiap tema"
+      "Mekano Pro: Tampilan baru bertema warna, latar warna utama, kartu putih, tombol bulat berwarna mencolok",
+      "Mekano Pro: Hijau Mekano berpadu kuning, Merah Racing berpadu biru es, tiga tema lain dari palet baru",
+      "Ruang Tunggu pelanggan ikut tampil dengan gaya yang sama",
+      "Bilah progres, tombol utama, dan bilah bawah memakai warna aksen tema",
+      "Pemilih warna menampilkan tiga warna tiap tema (mode gelap tetap rapi)"
     ]
   }
 }
