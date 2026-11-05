@@ -1,19 +1,19 @@
 {
   "android": {
-    "version": "1.0.119",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.119/Mekano.apk",
-    "size": 4350502,
-    "sha256": "e1ec55ca4b2e18831e667ce64b7e9eacc8d5215c31afe602af42507810aea27a",
+    "version": "1.0.120",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.120/Mekano.apk",
+    "size": 4353102,
+    "sha256": "53a950e45294453c3432fad7b7714c005b73cf58749eee1ebb34db392dd03bd1",
     "at": "2026-11-05",
     "notes": [
-      "Ruang Tunggu: SPK Baterai EV kini menampilkan gambar baterai animasi (periksa, las titik, tes), tidak lagi gambar shock",
-      "Baru: Menu Bantuan di Setelan: chat admin via WhatsApp (terisi otomatis), 12 FAQ dengan filter, dan panduan Mas Shock",
       "Baru: Rapor Baterai EV bergambar, siluet pack dengan bagian bermasalah menyala merah, inspeksi awal sampai rapor akhir siap kirim ke WhatsApp",
       "Ruang Tunggu: hasil pemeriksaan baterai tampil langsung ke pelanggan, termasuk bagian yang sudah ditangani",
       "Baru: Rapor 3D baterai EV bernomor dengan warna komponen asli, hanya yang perlu penanganan menyala merah dan yang selesai jadi hijau",
       "Baru: Tombol Tangani semua yang merah muncul setelah SPK masuk tahap Kerja, inspeksi awal tetap mencatat kerusakannya",
       "Baru: Rapor Akhir menampilkan catatan Awal dan Ditangani, berlaku untuk rapor Umum, Shock, dan Baterai EV",
-      "Ruang Tunggu: bagian yang sudah Ditangani tampil bernomor di layar pelanggan"
+      "Ruang Tunggu: bagian yang sudah Ditangani tampil bernomor di layar pelanggan",
+      "Baru: Peringatan margin (Mekano Pro): atur satu target margin, lalu barang dengan harga jual di bawah target diberi peringatan di form barang, SPK, dan filter Stok",
+      "Baru: Tab TV di Ruang Tunggu (Mekano Pro): papan antrean semua motor, Motor Anda ditandai, pengumuman bengkel, plat disamarkan atau dihilangkan"
     ]
   },
   "min": {
