@@ -1,13 +1,16 @@
 {
   "android": {
-    "version": "1.0.88",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.88/Mekano.apk",
-    "size": 4241506,
-    "sha256": "feb42203fbad1e9bca822c05521a1e643df6826c28b61cf6921ec9d1e0dfc0a2",
+    "version": "1.0.89",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.89/Mekano.apk",
+    "size": 4258778,
+    "sha256": "62a0cee8aa8468db327cdca0ce8bf83547b6c40ca3a64f8823580918a7c44c08",
     "at": "2026-11-05",
     "notes": [
-      "Pemberitahuan versi baru di Beranda, lengkap dengan catatan \"Apa yang baru\"",
-      "Perbarui langsung dari dalam aplikasi: unduh dan pasang tanpa lewat Chrome"
+      "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai",
+      "Tiap modul spesialis punya kode lisensi sendiri (Shock dan EV)",
+      "Garansi pekerjaan: diatur saat serah terima, peringatan jika kendaraan klaim saat masih garansi, pengingat sebelum berakhir",
+      "Tag titipan dan lokasi rak di setiap SPK, bisa dicari, diingatkan saat serah terima",
+      "Foto sebelum dan sesudah, ikut tampil di laporan gambar"
     ]
   },
   "min": {
