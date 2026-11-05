@@ -19,19 +19,19 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.18",
+    "version": "1.0.19",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120896341,
-    "sha256": "83b261924de2a3a65ee6fcf355e1d0a1f9e984225e6c22da6eb1a08a80c15a6a",
+    "size": 120902735,
+    "sha256": "061fff680240c6b0892753319b75e7b9c3e609c88848f98fe213209a13d969a0",
     "at": "2026-11-05",
     "notes": [
-      "PC: Tab Data Master, kolom pencarian, hasil pencarian dan tautan 'ubah' di Pajak kini terbaca jelas",
       "PC: Beranda lebih ringkas, servis aktif dan tombol menu naik ke layar pertama",
       "PC: Papan Servis berwarna per tahap, mudah dipindai",
       "Baru: Panduan Mas Shock, dipandu langsung di aplikasi dari profil bengkel, rekening, daftar motor dan jasa, SPK pertama, sampai stok barang",
       "Baru: Panduan modul Shock dan EV muncul saat modulnya diaktifkan, bisa diulang kapan saja di Setelan, Panduan Mas Shock",
       "Ruang Tunggu: SPK Baterai EV kini menampilkan gambar baterai animasi (periksa, las titik, tes), tidak lagi gambar shock",
-      "Baru: Menu Bantuan di Setelan: chat admin via WhatsApp (terisi otomatis), 12 FAQ dengan filter, dan panduan Mas Shock"
+      "Baru: Menu Bantuan di Setelan: chat admin via WhatsApp (terisi otomatis), 12 FAQ dengan filter, dan panduan Mas Shock",
+      "Baru: Ikon dan logo Mekano PC Edition di installer dan aplikasi Windows"
     ]
   }
 }
