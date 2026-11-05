@@ -1,18 +1,16 @@
 {
   "android": {
-    "version": "1.0.101",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.101/Mekano.apk",
-    "size": 4275122,
-    "sha256": "fa98d2b108f58e0ed91553cff653ba5f5a571029c8dd3c0733dff644e5b40edc",
+    "version": "1.0.102",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.102/Mekano.apk",
+    "size": 4275374,
+    "sha256": "63ddf984f5dd82204e2e60c6c52828b77bac54988545c1eb1cdf4b125a03c4bf",
     "at": "2026-11-05",
     "notes": [
-      "PC: Beranda dua kolom — KPI, grafik, \"Sedang dikerjakan\", serta perhatian dan pintasan di sisi kanan",
-      "PC: Papan Servis (kanban) — seret kartu antar kolom dengan mouse untuk mengubah status",
-      "PC: Detail SPK terbuka di panel samping, tanpa pindah halaman (juga tampilan Daftar + panel)",
-      "PC: Stok berupa tabel yang bisa diurutkan dengan klik judul kolom",
-      "PC: Pencarian global di bilah atas (stok, SPK, invoice, pelanggan) dan pintasan N, /, B, Ctrl+K",
-      "PC: PIN bisa diketik lewat keyboard, Enter/Esc di dialog, tombol Cetak lewat dialog Windows",
-      "Tampilan di HP tidak berubah"
+      "Mekano Pro: Warna tema dibuat ulang, dua warna lembut dan satu warna mencolok",
+      "Mekano Pro: Hijau Mekano kini berpadu kuning, Merah Racing berpadu biru es",
+      "Mekano Pro: Oranye Oli, Biru Laut, dan Ungu Malam memakai palet baru",
+      "Tombol utama, invoice, rapor, kartu progres, dan Ruang Tunggu mengikuti warna tema",
+      "Pemilih warna menampilkan tiga warna tiap tema"
     ]
   },
   "min": {
