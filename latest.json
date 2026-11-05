@@ -17,17 +17,16 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120828970,
-    "sha256": "4a86be7a7e726f2a7a1f3f861c8eef8feb61b537112d1a68be892d3fefac7c74",
+    "size": 120831019,
+    "sha256": "13284e7059ed85bcb5011aa2d10dd99e839c9db05e118d9e95f9c23b52a904d2",
     "at": "2026-11-05",
     "notes": [
+      "Data Master Baterai EV: database baterai, tombol muat baterai populer dan motor listrik populer",
+      "Isi otomatis spesifikasi baterai saat membuat SPK Baterai",
       "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai",
-      "Tiap modul spesialis punya kode lisensi sendiri (Shock dan EV)",
-      "Garansi pekerjaan: diatur saat serah terima, peringatan jika kendaraan klaim saat masih garansi, pengingat sebelum berakhir",
-      "Tag titipan dan lokasi rak di setiap SPK, bisa dicari, diingatkan saat serah terima",
-      "Foto sebelum dan sesudah, ikut tampil di laporan gambar"
+      "Garansi pekerjaan, tag titipan + lokasi rak, foto sebelum dan sesudah di laporan"
     ]
   }
 }
