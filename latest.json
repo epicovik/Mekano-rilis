@@ -1,19 +1,19 @@
 {
   "android": {
-    "version": "1.0.117",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.117/Mekano.apk",
-    "size": 4345434,
-    "sha256": "d631ea14be406c27da938f4327ae77a43edbea70c8e3d7a605273c57059e1874",
+    "version": "1.0.118",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.118/Mekano.apk",
+    "size": 4350502,
+    "sha256": "4b9115710e288f17c41e2c8ad5952a2ccf8bf8d87beb5d0d0c778edae60e52d6",
     "at": "2026-11-05",
     "notes": [
+      "Baru: Rapor 3D baterai EV bernomor dengan warna komponen asli, hanya yang perlu penanganan menyala merah dan yang selesai jadi hijau",
+      "Baru: Tombol Tangani semua yang merah muncul setelah SPK masuk tahap Kerja, inspeksi awal tetap mencatat kerusakannya",
+      "Baru: Rapor Akhir menampilkan catatan Awal dan Ditangani, berlaku untuk rapor Umum, Shock, dan Baterai EV",
+      "Ruang Tunggu: bagian yang sudah Ditangani tampil bernomor di layar pelanggan",
       "Pro: Kartu keuangan di tema Oranye, Merah, dan Ungu lebih gelap supaya teksnya terbaca",
       "Ruang Tunggu: kartu Memori yang cocok terbaca jelas dan bug mur di Kencangkan Baut diperbaiki",
       "Baru: Panduan Mas Shock, dipandu langsung di aplikasi dari profil bengkel, rekening, daftar motor dan jasa, SPK pertama, sampai stok barang",
-      "Baru: Panduan modul Shock dan EV muncul saat modulnya diaktifkan, bisa diulang kapan saja di Setelan, Panduan Mas Shock",
-      "Ruang Tunggu: SPK Baterai EV kini menampilkan gambar baterai animasi (periksa, las titik, tes), tidak lagi gambar shock",
-      "Baru: Menu Bantuan di Setelan: chat admin via WhatsApp (terisi otomatis), 12 FAQ dengan filter, dan panduan Mas Shock",
-      "Baru: Rapor Baterai EV bergambar, siluet pack dengan bagian bermasalah menyala merah, inspeksi awal sampai rapor akhir siap kirim ke WhatsApp",
-      "Ruang Tunggu: hasil pemeriksaan baterai tampil langsung ke pelanggan, termasuk bagian yang sudah ditangani"
+      "Baru: Panduan modul Shock dan EV muncul saat modulnya diaktifkan, bisa diulang kapan saja di Setelan, Panduan Mas Shock"
     ]
   },
   "min": {
