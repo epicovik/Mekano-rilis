@@ -18,19 +18,19 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.17",
+    "version": "1.0.18",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120894681,
-    "sha256": "23c77d9635c83f60811eb076cab4414cf33476e4867b34c55a74502ba9947c8e",
+    "size": 120896341,
+    "sha256": "83b261924de2a3a65ee6fcf355e1d0a1f9e984225e6c22da6eb1a08a80c15a6a",
     "at": "2026-11-05",
     "notes": [
-      "PC: Label tombol menu di Beranda kini terbaca di semua tema, strip warna di bawah kartu servis hilang",
       "PC: Tab Data Master, kolom pencarian, hasil pencarian dan tautan 'ubah' di Pajak kini terbaca jelas",
       "PC: Beranda lebih ringkas, servis aktif dan tombol menu naik ke layar pertama",
       "PC: Papan Servis berwarna per tahap, mudah dipindai",
       "Baru: Panduan Mas Shock, dipandu langsung di aplikasi dari profil bengkel, rekening, daftar motor dan jasa, SPK pertama, sampai stok barang",
       "Baru: Panduan modul Shock dan EV muncul saat modulnya diaktifkan, bisa diulang kapan saja di Setelan, Panduan Mas Shock",
-      "Ruang Tunggu: SPK Baterai EV kini menampilkan gambar baterai animasi (periksa, las titik, tes), tidak lagi gambar shock"
+      "Ruang Tunggu: SPK Baterai EV kini menampilkan gambar baterai animasi (periksa, las titik, tes), tidak lagi gambar shock",
+      "Baru: Menu Bantuan di Setelan: chat admin via WhatsApp (terisi otomatis), 12 FAQ dengan filter, dan panduan Mas Shock"
     ]
   }
 }
