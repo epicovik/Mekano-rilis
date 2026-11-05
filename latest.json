@@ -1,11 +1,13 @@
 {
   "android": {
-    "version": "1.0.91",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.91/Mekano.apk",
-    "size": 4262030,
-    "sha256": "ad1ba2be7e73e488709f3e4445ffc85b125d6ece3f2fc58e4ece43d236b6b084",
+    "version": "1.0.92",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.92/Mekano.apk",
+    "size": 4263594,
+    "sha256": "529723238c244a885d86ca5c269e8d4255ca0fed71af6afdbed0c388a5d0add0",
     "at": "2026-11-05",
     "notes": [
+      "Kartu pembaruan baru di Beranda yang mencolok, versi aplikasi tampil di Beranda, menu Pembaruan terpisah dari Printer di Setelan",
+      "Perbaikan: Logger Suspensi tidak lagi muncul di SPK Baterai EV",
       "Data Master Baterai EV: database baterai, tombol muat baterai populer dan motor listrik populer",
       "Isi otomatis spesifikasi baterai saat membuat SPK Baterai",
       "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai",
