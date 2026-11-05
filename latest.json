@@ -21,19 +21,20 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.9",
+    "version": "1.0.10",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120832250,
-    "sha256": "9951f9bd370f59db28c28cea24f6806c841f10040f07274c1c5c386c68f212f2",
+    "size": 120833740,
+    "sha256": "0f60e6ab09fb9eafc95bde44cd259d2017b3afc0d22fb9d6c5124cfe66a1d407",
     "at": "2026-11-05",
     "notes": [
+      "PC: PIN bisa diketik lewat keyboard, kartu geser bisa diseret dengan mouse, Enter/Esc di dialog dan formulir",
+      "PC: tombol Cetak lewat dialog Windows untuk invoice, progres, pembayaran, dan rapor",
       "Data Master Motor: tombol Muat motor listrik populer kini tersedia untuk semua kelas (tanpa modul EV)",
       "Kartu pembaruan baru di Beranda yang mencolok, versi aplikasi tampil di Beranda, menu Pembaruan terpisah dari Printer di Setelan",
       "Perbaikan: Logger Suspensi tidak lagi muncul di SPK Baterai EV",
       "Data Master Baterai EV: database baterai, tombol muat baterai populer dan motor listrik populer",
       "Isi otomatis spesifikasi baterai saat membuat SPK Baterai",
-      "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai",
-      "Garansi pekerjaan, tag titipan + lokasi rak, foto sebelum dan sesudah di laporan"
+      "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai"
     ]
   }
 }
