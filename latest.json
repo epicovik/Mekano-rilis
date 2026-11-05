@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.92",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.92/Mekano.apk",
-    "size": 4263594,
-    "sha256": "529723238c244a885d86ca5c269e8d4255ca0fed71af6afdbed0c388a5d0add0",
+    "version": "1.0.93",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.93/Mekano.apk",
+    "size": 4263598,
+    "sha256": "8735fa850a5d14c5b27aff94733977765b1a706e345ab6cdf2541612e03fdd36",
     "at": "2026-11-05",
     "notes": [
       "Kartu pembaruan baru di Beranda yang mencolok, versi aplikasi tampil di Beranda, menu Pembaruan terpisah dari Printer di Setelan",
