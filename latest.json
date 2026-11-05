@@ -21,20 +21,19 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.10",
+    "version": "1.0.11",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120833740,
-    "sha256": "0f60e6ab09fb9eafc95bde44cd259d2017b3afc0d22fb9d6c5124cfe66a1d407",
+    "size": 120840045,
+    "sha256": "836e77530dd8ddfcf443f770dd45769eeeff42e1a95c8c0e9e3f0fb4a01bb329",
     "at": "2026-11-05",
     "notes": [
-      "PC: PIN bisa diketik lewat keyboard, kartu geser bisa diseret dengan mouse, Enter/Esc di dialog dan formulir",
-      "PC: tombol Cetak lewat dialog Windows untuk invoice, progres, pembayaran, dan rapor",
-      "Data Master Motor: tombol Muat motor listrik populer kini tersedia untuk semua kelas (tanpa modul EV)",
-      "Kartu pembaruan baru di Beranda yang mencolok, versi aplikasi tampil di Beranda, menu Pembaruan terpisah dari Printer di Setelan",
-      "Perbaikan: Logger Suspensi tidak lagi muncul di SPK Baterai EV",
-      "Data Master Baterai EV: database baterai, tombol muat baterai populer dan motor listrik populer",
-      "Isi otomatis spesifikasi baterai saat membuat SPK Baterai",
-      "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai"
+      "PC: Beranda dua kolom — KPI, grafik, \"Sedang dikerjakan\", serta perhatian dan pintasan di sisi kanan",
+      "PC: Papan Servis (kanban) — seret kartu antar kolom dengan mouse untuk mengubah status",
+      "PC: Detail SPK terbuka di panel samping, tanpa pindah halaman (juga tampilan Daftar + panel)",
+      "PC: Stok berupa tabel yang bisa diurutkan dengan klik judul kolom",
+      "PC: Pencarian global di bilah atas (stok, SPK, invoice, pelanggan) dan pintasan N, /, B, Ctrl+K",
+      "PC: PIN bisa diketik lewat keyboard, Enter/Esc di dialog, tombol Cetak lewat dialog Windows",
+      "Tampilan di HP tidak berubah"
     ]
   }
 }
