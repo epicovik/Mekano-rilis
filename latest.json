@@ -1,16 +1,15 @@
 {
   "android": {
-    "version": "1.0.90",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.90/Mekano.apk",
-    "size": 4258778,
-    "sha256": "a16f47d02345bf5c58035ff70898eae47e7691a6d9f666405a42301e5741eb8c",
+    "version": "1.0.91",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.91/Mekano.apk",
+    "size": 4262030,
+    "sha256": "ad1ba2be7e73e488709f3e4445ffc85b125d6ece3f2fc58e4ece43d236b6b084",
     "at": "2026-11-05",
     "notes": [
+      "Data Master Baterai EV: database baterai, tombol muat baterai populer dan motor listrik populer",
+      "Isi otomatis spesifikasi baterai saat membuat SPK Baterai",
       "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai",
-      "Tiap modul spesialis punya kode lisensi sendiri (Shock dan EV)",
-      "Garansi pekerjaan: diatur saat serah terima, peringatan jika kendaraan klaim saat masih garansi, pengingat sebelum berakhir",
-      "Tag titipan dan lokasi rak di setiap SPK, bisa dicari, diingatkan saat serah terima",
-      "Foto sebelum dan sesudah, ikut tampil di laporan gambar"
+      "Garansi pekerjaan, tag titipan + lokasi rak, foto sebelum dan sesudah di laporan"
     ]
   },
   "min": {
