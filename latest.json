@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.114",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.114/Mekano.apk",
-    "size": 4335906,
-    "sha256": "07f184a6a8862113c6e34456b5873176febae01c621ac45c7889b632308dd60e",
+    "version": "1.0.115",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.115/Mekano.apk",
+    "size": 4345434,
+    "sha256": "af4799a2895d6e965d7c32b3abde1540963c501d3426defafb55d785045b2e1a",
     "at": "2026-11-05",
     "notes": [
       "Pro: Kartu keuangan di tema Oranye, Merah, dan Ungu lebih gelap supaya teksnya terbaca",
@@ -11,7 +11,9 @@
       "Baru: Panduan Mas Shock, dipandu langsung di aplikasi dari profil bengkel, rekening, daftar motor dan jasa, SPK pertama, sampai stok barang",
       "Baru: Panduan modul Shock dan EV muncul saat modulnya diaktifkan, bisa diulang kapan saja di Setelan, Panduan Mas Shock",
       "Ruang Tunggu: SPK Baterai EV kini menampilkan gambar baterai animasi (periksa, las titik, tes), tidak lagi gambar shock",
-      "Baru: Menu Bantuan di Setelan: chat admin via WhatsApp (terisi otomatis), 12 FAQ dengan filter, dan panduan Mas Shock"
+      "Baru: Menu Bantuan di Setelan: chat admin via WhatsApp (terisi otomatis), 12 FAQ dengan filter, dan panduan Mas Shock",
+      "Baru: Rapor Baterai EV bergambar, siluet pack dengan bagian bermasalah menyala merah, inspeksi awal sampai rapor akhir siap kirim ke WhatsApp",
+      "Ruang Tunggu: hasil pemeriksaan baterai tampil langsung ke pelanggan, termasuk bagian yang sudah ditangani"
     ]
   },
   "min": {
