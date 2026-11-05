@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.95",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.95/Mekano.apk",
+    "version": "1.0.96",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.96/Mekano.apk",
     "size": 4263662,
-    "sha256": "99bead9db7a9cb107bdc5870badbfa1b99f5a0aafcf8a4049bf2245beedcdd3b",
+    "sha256": "2d2ee9ce15fc9f04d3587f0da016fddc4783390044fd88280b82c9458d2c797d",
     "at": "2026-11-05",
     "notes": [
       "Data Master Motor: tombol Muat motor listrik populer kini tersedia untuk semua kelas (tanpa modul EV)",
