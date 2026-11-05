@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.89",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.89/Mekano.apk",
+    "version": "1.0.90",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.90/Mekano.apk",
     "size": 4258778,
-    "sha256": "62a0cee8aa8468db327cdca0ce8bf83547b6c40ca3a64f8823580918a7c44c08",
+    "sha256": "a16f47d02345bf5c58035ff70898eae47e7691a6d9f666405a42301e5741eb8c",
     "at": "2026-11-05",
     "notes": [
       "Modul Spesialis EV: SPK Baterai tanpa motor, Data Logger Baterai awal/akhir, laporan gambar baterai",
