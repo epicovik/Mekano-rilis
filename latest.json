@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.105",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.105/Mekano.apk",
-    "size": 4277122,
-    "sha256": "5a9e39b20c885396e5605a6eb164e8159504d758709264c36f4246bbe7ae7dc0",
+    "version": "1.0.106",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.106/Mekano.apk",
+    "size": 4277118,
+    "sha256": "452bd6832fe36f93e150b683982cf684a98cc4d26fa2c1e1d562dfe4a022cee4",
     "at": "2026-11-05",
     "notes": [
       "Mekano Pro: Tombol menu (Scan, SPK Baru, Bayar, Rapor) kini berwarna-warni sesuai keluarga warna tema",
