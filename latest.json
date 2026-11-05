@@ -13,5 +13,16 @@
   "min": {
     "android": "",
     "pc": ""
+  },
+  "pc": {
+    "version": "1.0.5",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
+    "size": 120818954,
+    "sha256": "46d3455475292b665785655652db1d8006cfd18d2342edb8d3630c935fce8387",
+    "at": "2026-11-05",
+    "notes": [
+      "Pemberitahuan versi baru di Beranda, lengkap dengan catatan \"Apa yang baru\"",
+      "Perbarui otomatis dari dalam aplikasi: unduh di latar, pasang, lalu Mekano terbuka lagi"
+    ]
   }
 }
