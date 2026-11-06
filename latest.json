@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.123",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.123/Mekano.apk",
-    "size": 4375902,
-    "sha256": "77474b3f43a05d64ae139db20719fd8ab7e73e89b5d16e63652f59160a18d53b",
+    "version": "1.0.124",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.124/Mekano.apk",
+    "size": 4375906,
+    "sha256": "43ba692b9cacf6e86b78a27070e5eb31fa4847a62ef0d7fc44c376989f7509fc",
     "at": "2026-11-06",
     "notes": [
       "Baru: Barang laku dan mati: 5 terlaris di Stok untuk semua, Pro mendapat daftar lengkap, barang lambat, dan uang mati dengan periode 30, 60, 90 hari",
