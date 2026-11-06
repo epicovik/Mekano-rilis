@@ -1,9 +1,9 @@
 {
   "android": {
-    "version": "1.0.133",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.133/Mekano.apk",
+    "version": "1.0.134",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.134/Mekano.apk",
     "size": 4380950,
-    "sha256": "6abf16130ab762389a24acf48601ab2388a891dc6b6096ebf93c7d33ef11a50d",
+    "sha256": "c631f763358ce7728249dacfb18df67a798ed7c4a01133b03f448eceae786750",
     "at": "2026-11-06",
     "notes": [
       "Perbaikan: Pembukuan lebih akurat: penyusutan aset, PPN dengan kompensasi lebih bayar, HPP saat retur penjualan, estimasi PPh, dan PPh Final lebih bayar",
