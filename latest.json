@@ -1,19 +1,19 @@
 {
   "android": {
-    "version": "1.0.122",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.122/Mekano.apk",
-    "size": 4369522,
-    "sha256": "87319f08e86c2d76978de3d8aa6e1325ce35bef12bff1e02eae243dcd738caa5",
+    "version": "1.0.123",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.123/Mekano.apk",
+    "size": 4375902,
+    "sha256": "77474b3f43a05d64ae139db20719fd8ab7e73e89b5d16e63652f59160a18d53b",
     "at": "2026-11-06",
     "notes": [
-      "Baru: Peringatan margin (Mekano Pro): atur satu target margin, lalu barang dengan harga jual di bawah target diberi peringatan di form barang, SPK, dan filter Stok",
-      "Baru: Tab TV di Ruang Tunggu (Mekano Pro): papan antrean semua motor, Motor Anda ditandai, pengumuman bengkel, plat disamarkan atau dihilangkan",
-      "Baru: Menu Kasir untuk jual sparepart tanpa SPK: ketuk barang, pilih pelanggan, bayar Tunai, QRIS, Transfer, atau Bon, lalu lihat Hari ini dan Retur. Pelanggan pindah ke Lainnya",
-      "Baru: Harga bertingkat (Mekano Pro): dua tingkat harga jual, mis. Eceran dan Grosir, nama bisa diubah dan dipakai di Kasir",
       "Baru: Barang laku dan mati: 5 terlaris di Stok untuk semua, Pro mendapat daftar lengkap, barang lambat, dan uang mati dengan periode 30, 60, 90 hari",
       "Baru: Notifikasi harga beli naik (Mekano Pro): saat barang masuk lebih mahal, margin sebelum dan sesudah tampil beserta saran harga jual, Terapkan atau Nanti",
       "Baru: Foto faktur supplier dengan AI (Mekano Pro): foto faktur terbaca jadi barang masuk, tinggal diperiksa dan disimpan, kuota 50 foto per bulan",
-      "Baru: Unduhan pembaruan menampilkan MB terunduh dan kecepatan"
+      "Baru: Unduhan pembaruan menampilkan MB terunduh dan kecepatan",
+      "Baru: Antrean Live (dulu Tab TV) di Ruang Tunggu: papan antrean bertema terang mengikuti warna bengkel, motor pelanggan ditandai MOTOR ANDA beserta urutannya, dan teks info berjalan di bawah",
+      "Baru: Info berjalan untuk promo, pengumuman, dan hal penting: beberapa baris, pilih jenis, atur tanggal berlaku, nyalakan atau matikan tiap baris, dengan pratinjau langsung",
+      "Baru: Layar TV bengkel: buat link TV lalu buka di browser TV atau lewat cast HP, ada QR dan panduan; tampil layar penuh, berganti halaman otomatis, dan tidak menampilkan data pelanggan",
+      "Baru: Halaman Mekano Pro ditata ulang dengan kartu lipat, saklar on off, dan simpan otomatis, tanpa tombol Simpan lagi. Link Ruang Tunggu di WhatsApp kini tampil dengan kartu Mekano"
     ]
   },
   "min": {
