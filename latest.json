@@ -1,19 +1,17 @@
 {
   "android": {
-    "version": "1.0.131",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.131/Mekano.apk",
-    "size": 4380950,
-    "sha256": "cc94d54b345a6bb9b711876d8e313eb069516274ef630abbf01349f5ec0f87bb",
+    "version": "1.0.132",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.132/Mekano.apk",
+    "size": 4380954,
+    "sha256": "a589f7c071e480b1e21fd4be4a844fdf2eb3e298bb083f5ce442ba1ab2b8433b",
     "at": "2026-11-06",
     "notes": [
-      "Baru: Antrean Live (dulu Tab TV) di Ruang Tunggu: papan antrean bertema terang mengikuti warna bengkel, motor pelanggan ditandai MOTOR ANDA beserta urutannya, dan teks info berjalan di bawah",
-      "Baru: Info berjalan untuk promo, pengumuman, dan hal penting: beberapa baris, pilih jenis, atur tanggal berlaku, nyalakan atau matikan tiap baris, dengan pratinjau langsung",
-      "Baru: Layar TV bengkel: buat link TV lalu buka di browser TV atau lewat cast HP, ada QR dan panduan; tampil layar penuh, berganti halaman otomatis, dan tidak menampilkan data pelanggan",
-      "Baru: Halaman Mekano Pro ditata ulang dengan kartu lipat, saklar on off, dan simpan otomatis, tanpa tombol Simpan lagi. Link Ruang Tunggu di WhatsApp kini tampil dengan kartu Mekano",
-      "Baru: Huruf antrean mengikuti hari masuk (Senin A sampai Minggu G) untuk SPK baru, jadi motor inap mudah dilacak hari masuknya",
-      "Baru: Antrean Live menampilkan motor inap di paling atas dengan tanda Inap dan hari masuknya, dan motor tidak hilang dari papan selama masih dikerjakan",
-      "Baru: Hubungkan TV: buka alamat pendek di browser TV, lalu scan QR atau ketik kode 6 angka dari HP. Ada juga Kode TV 8 angka sebagai cadangan",
-      "Baru: Plat di Antrean Live bergaya plat SPK, tetap disamarkan, motor listrik bergaris biru"
+      "Perbaikan: Pembukuan lebih akurat: penyusutan aset, PPN dengan kompensasi lebih bayar, HPP saat retur penjualan, estimasi PPh, dan PPh Final lebih bayar",
+      "Perbaikan: Pembayaran refund retur tidak bisa dihapus lagi, supaya kas dan jurnal tetap cocok",
+      "Baru: Laporan memakai format SAK EMKM: Laporan Posisi Keuangan, Laba Rugi dengan Laba Sebelum Pajak, Beban Pajak Penghasilan, dan Laba Setelah Pajak",
+      "Baru: Neraca punya kolom pembanding 31 Desember tahun lalu, dan catatan rasio lancar lebih jelas",
+      "Baru: Tambah Jasa ke SPK memberi tanda jelas: lencana di jasa yang sudah masuk, banner konfirmasi, ringkasan jumlah dan total, getar halus, dan pemberitahuan saat jasa dihapus",
+      "Perbaikan: Aplikasi lebih ringan saat membuka SPK dan daftar panjang; daftar Servis dan Stok dimuat bertahap dengan tombol tampilkan lebih banyak"
     ]
   },
   "min": {
