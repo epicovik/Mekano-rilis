@@ -1,19 +1,19 @@
 {
   "android": {
-    "version": "1.0.121",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.121/Mekano.apk",
-    "size": 4369298,
-    "sha256": "0237fce99c10c0b05dc8ad54b4a14b2b53cd664b20b50ff8f043c2b49215151c",
-    "at": "2026-11-05",
+    "version": "1.0.122",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.122/Mekano.apk",
+    "size": 4369522,
+    "sha256": "87319f08e86c2d76978de3d8aa6e1325ce35bef12bff1e02eae243dcd738caa5",
+    "at": "2026-11-06",
     "notes": [
-      "Ruang Tunggu: bagian yang sudah Ditangani tampil bernomor di layar pelanggan",
       "Baru: Peringatan margin (Mekano Pro): atur satu target margin, lalu barang dengan harga jual di bawah target diberi peringatan di form barang, SPK, dan filter Stok",
       "Baru: Tab TV di Ruang Tunggu (Mekano Pro): papan antrean semua motor, Motor Anda ditandai, pengumuman bengkel, plat disamarkan atau dihilangkan",
       "Baru: Menu Kasir untuk jual sparepart tanpa SPK: ketuk barang, pilih pelanggan, bayar Tunai, QRIS, Transfer, atau Bon, lalu lihat Hari ini dan Retur. Pelanggan pindah ke Lainnya",
       "Baru: Harga bertingkat (Mekano Pro): dua tingkat harga jual, mis. Eceran dan Grosir, nama bisa diubah dan dipakai di Kasir",
       "Baru: Barang laku dan mati: 5 terlaris di Stok untuk semua, Pro mendapat daftar lengkap, barang lambat, dan uang mati dengan periode 30, 60, 90 hari",
       "Baru: Notifikasi harga beli naik (Mekano Pro): saat barang masuk lebih mahal, margin sebelum dan sesudah tampil beserta saran harga jual, Terapkan atau Nanti",
-      "Baru: Foto faktur supplier dengan AI (Mekano Pro): foto faktur terbaca jadi barang masuk, tinggal diperiksa dan disimpan, kuota 50 foto per bulan"
+      "Baru: Foto faktur supplier dengan AI (Mekano Pro): foto faktur terbaca jadi barang masuk, tinggal diperiksa dan disimpan, kuota 50 foto per bulan",
+      "Baru: Unduhan pembaruan menampilkan MB terunduh dan kecepatan"
     ]
   },
   "min": {
