@@ -1,19 +1,19 @@
 {
   "android": {
-    "version": "1.0.124",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.124/Mekano.apk",
-    "size": 4375906,
-    "sha256": "43ba692b9cacf6e86b78a27070e5eb31fa4847a62ef0d7fc44c376989f7509fc",
+    "version": "1.0.125",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.125/Mekano.apk",
+    "size": 4377094,
+    "sha256": "6b826e5e039a066945a8bd7cd4e2cf84494eb1c0a2859952aa23283ef33a60e8",
     "at": "2026-11-06",
     "notes": [
-      "Baru: Barang laku dan mati: 5 terlaris di Stok untuk semua, Pro mendapat daftar lengkap, barang lambat, dan uang mati dengan periode 30, 60, 90 hari",
-      "Baru: Notifikasi harga beli naik (Mekano Pro): saat barang masuk lebih mahal, margin sebelum dan sesudah tampil beserta saran harga jual, Terapkan atau Nanti",
-      "Baru: Foto faktur supplier dengan AI (Mekano Pro): foto faktur terbaca jadi barang masuk, tinggal diperiksa dan disimpan, kuota 50 foto per bulan",
-      "Baru: Unduhan pembaruan menampilkan MB terunduh dan kecepatan",
       "Baru: Antrean Live (dulu Tab TV) di Ruang Tunggu: papan antrean bertema terang mengikuti warna bengkel, motor pelanggan ditandai MOTOR ANDA beserta urutannya, dan teks info berjalan di bawah",
       "Baru: Info berjalan untuk promo, pengumuman, dan hal penting: beberapa baris, pilih jenis, atur tanggal berlaku, nyalakan atau matikan tiap baris, dengan pratinjau langsung",
       "Baru: Layar TV bengkel: buat link TV lalu buka di browser TV atau lewat cast HP, ada QR dan panduan; tampil layar penuh, berganti halaman otomatis, dan tidak menampilkan data pelanggan",
-      "Baru: Halaman Mekano Pro ditata ulang dengan kartu lipat, saklar on off, dan simpan otomatis, tanpa tombol Simpan lagi. Link Ruang Tunggu di WhatsApp kini tampil dengan kartu Mekano"
+      "Baru: Halaman Mekano Pro ditata ulang dengan kartu lipat, saklar on off, dan simpan otomatis, tanpa tombol Simpan lagi. Link Ruang Tunggu di WhatsApp kini tampil dengan kartu Mekano",
+      "Baru: Huruf antrean mengikuti hari masuk (Senin A sampai Minggu G) untuk SPK baru, jadi motor inap mudah dilacak hari masuknya",
+      "Baru: Antrean Live menampilkan motor inap di paling atas dengan tanda Inap dan hari masuknya, dan motor tidak hilang dari papan selama masih dikerjakan",
+      "Baru: Hubungkan TV: buka alamat pendek di browser TV, lalu scan QR atau ketik kode 6 angka dari HP. Ada juga Kode TV 8 angka sebagai cadangan",
+      "Baru: Plat di Antrean Live bergaya plat SPK, tetap disamarkan, motor listrik bergaris biru"
     ]
   },
   "min": {
