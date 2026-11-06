@@ -21,20 +21,20 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.24",
+    "version": "1.0.25",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120926722,
-    "sha256": "aaa07eb0635e2670fba91a163ec1ff65cf811ed5fcbc2856ec1faea81bea404c",
+    "size": 120931963,
+    "sha256": "386ece66d8b9ea14e3119675b9d37882c36824b0d2f1ce553df943bad58b88b5",
     "at": "2026-11-06",
     "notes": [
-      "Baru: Peringatan margin (Mekano Pro): atur satu target margin, lalu barang dengan harga jual di bawah target diberi peringatan di form barang, SPK, dan filter Stok",
-      "Baru: Tab TV di Ruang Tunggu (Mekano Pro): papan antrean semua motor, Motor Anda ditandai, pengumuman bengkel, plat disamarkan atau dihilangkan",
-      "Baru: Menu Kasir untuk jual sparepart tanpa SPK: ketuk barang, pilih pelanggan, bayar Tunai, QRIS, Transfer, atau Bon, lalu lihat Hari ini dan Retur. Pelanggan pindah ke Lainnya",
-      "Baru: Harga bertingkat (Mekano Pro): dua tingkat harga jual, mis. Eceran dan Grosir, nama bisa diubah dan dipakai di Kasir",
       "Baru: Barang laku dan mati: 5 terlaris di Stok untuk semua, Pro mendapat daftar lengkap, barang lambat, dan uang mati dengan periode 30, 60, 90 hari",
       "Baru: Notifikasi harga beli naik (Mekano Pro): saat barang masuk lebih mahal, margin sebelum dan sesudah tampil beserta saran harga jual, Terapkan atau Nanti",
       "Baru: Foto faktur supplier dengan AI (Mekano Pro): foto faktur terbaca jadi barang masuk, tinggal diperiksa dan disimpan, kuota 50 foto per bulan",
-      "Baru: Unduhan pembaruan lebih tangguh: kecepatan dan MB terunduh tampil, dan kalau koneksi putus atau macet unduhan lanjut sendiri tanpa mulai dari nol"
+      "Baru: Unduhan pembaruan lebih tangguh: kecepatan dan MB terunduh tampil, dan kalau koneksi putus atau macet unduhan lanjut sendiri tanpa mulai dari nol",
+      "Baru: Antrean Live (dulu Tab TV) di Ruang Tunggu: papan antrean bertema terang mengikuti warna bengkel, motor pelanggan ditandai MOTOR ANDA beserta urutannya, dan teks info berjalan di bawah",
+      "Baru: Info berjalan untuk promo, pengumuman, dan hal penting: beberapa baris, pilih jenis, atur tanggal berlaku, nyalakan atau matikan tiap baris, dengan pratinjau langsung",
+      "Baru: Layar TV bengkel: buat link TV lalu buka di browser TV atau lewat cast HP, ada QR dan panduan; tampil layar penuh, berganti halaman otomatis, dan tidak menampilkan data pelanggan",
+      "Baru: Halaman Mekano Pro ditata ulang dengan kartu lipat, saklar on off, dan simpan otomatis, tanpa tombol Simpan lagi. Link Ruang Tunggu di WhatsApp kini tampil dengan kartu Mekano"
     ]
   }
 }
