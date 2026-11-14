@@ -1,13 +1,13 @@
 {
   "android": {
-    "version": "1.0.143",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.143/Mekano.apk",
-    "size": 4382234,
-    "sha256": "3ad321bc34fc35d31c734dd6646e941618a04629ad9da9c0b1adba4d06fc1dd7",
+    "version": "1.0.144",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.144/Mekano.apk",
+    "size": 4382422,
+    "sha256": "b1a573e379c6513dda6c4dcf718f4608537c4b0e8ba020296b020d1107094d92",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Data Master kini punya tab Mekanik untuk mendaftar mekanik bengkel",
-      "Baru: Di SPK (biasa, Shock, dan Baterai EV), mekanik tinggal diketuk, tidak perlu mengetik lagi"
+      "Baru: Alamat layanan kini mekano.sbs, lebih mudah diingat dan bisa dibuka di jaringan yang sebelumnya memblokir alamat lama",
+      "Baru: Layar TV antrean dibuka di mekano.sbs/tv (alamat lama tetap jadi cadangan otomatis)"
     ]
   },
   "min": {
