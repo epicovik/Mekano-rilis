@@ -16,15 +16,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.41",
+    "version": "1.0.42",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120944812,
-    "sha256": "26abf46195a887d3fb105fcf9094357813795fbc4c60dd18886085b6497f57b9",
+    "size": 120944635,
+    "sha256": "69bab445dbdf6b4344ba5015484a7a6872d00e34eb4b63fc3f337393751bf6d7",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Invoice kini bergaya invoice resmi: kop usaha, kolom \"Ditagihkan kepada\", nomor urut, header pemisah Jasa dan Sparepart, terbilang, stempel LUNAS, dan kolom tanda tangan.",
-      "Baru: Watermark logo Mekano (monokrom, tipis) di tengah invoice dan kartu pelanggan.",
-      "Perbaikan: Kartu invoice, pembayaran, dan progres selalu memakai warna Mekano, tidak mengikuti warna tema Pro."
+      "Perbaikan: Invoice tanpa kolom \"Hormat kami\" (tanda tangan); catatan kini selebar halaman."
     ]
   }
 }
