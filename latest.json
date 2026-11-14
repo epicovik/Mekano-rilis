@@ -1,12 +1,13 @@
 {
   "android": {
-    "version": "1.0.142",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.142/Mekano.apk",
-    "size": 4381070,
-    "sha256": "7c9256e2bbef29c78274238640622a4027bb79b22306b242b37352c76fba9940",
+    "version": "1.0.143",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.143/Mekano.apk",
+    "size": 4382234,
+    "sha256": "3ad321bc34fc35d31c734dd6646e941618a04629ad9da9c0b1adba4d06fc1dd7",
     "at": "2026-11-14",
     "notes": [
-      "Perbaikan: Cetak ke printer Bluetooth di Android 12 ke atas (termasuk tablet) tidak lagi gagal dengan pesan izin BLUETOOTH_SCAN"
+      "Baru: Data Master kini punya tab Mekanik untuk mendaftar mekanik bengkel",
+      "Baru: Di SPK (biasa, Shock, dan Baterai EV), mekanik tinggal diketuk, tidak perlu mengetik lagi"
     ]
   },
   "min": {
