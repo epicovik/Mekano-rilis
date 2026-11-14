@@ -1,16 +1,13 @@
 {
   "android": {
-    "version": "1.0.150",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.150/Mekano.apk",
-    "size": 4390150,
-    "sha256": "52f39c0a8e48977b3737db046e356aba6e46f29389939d1ac1e49aac96f8a69b",
+    "version": "1.0.151",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.151/Mekano.apk",
+    "size": 4390434,
+    "sha256": "0008c9d4b01bbb1b155a51f2bed2772a5d6e597017100bbcdca607340200e15a",
     "at": "2026-11-14",
     "notes": [
-      "Perbaikan: Mode gelap di Stok dan Servis: barang habis, label stok, dan kartu \"Siap diambil\" kini terbaca jelas",
-      "Perbaikan: Tema Pro: tautan \"Status lain / koreksi\" dan \"Lengkapi\" di dalam kartu sebelumnya tidak terlihat, kini terbaca",
-      "Perbaikan: Ikon menu Setelan diganti ikon garis yang seragam dengan navigasi",
-      "Perbaikan: Halaman kosong di Beranda dan Keuangan kini menyediakan tombol langkah pertama (+ SPK Baru, Catat pemasukan, Catat pengeluaran)",
-      "Perbaikan: Di detail SPK hanya Kirim update dan Terbitkan Invoice yang berwarna tebal, tombol + Sparepart dibuat biasa agar langkah utama lebih jelas"
+      "Perbaikan: Warna kartu invoice/pembayaran kini seragam mengikuti warna tema yang dipilih (header, tabel, kotak \"Total yang perlu dibayar\", dan angka), tidak lagi cokelat atau biru Mekano.",
+      "Perbaikan: Warna oranye pada invoice kini tampil oranye, bukan cokelat. Berlaku juga di kartu SPK Shock dan EV."
     ]
   },
   "min": {
