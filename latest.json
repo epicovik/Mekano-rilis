@@ -1,14 +1,14 @@
 {
   "android": {
-    "version": "1.0.145",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.145/Mekano.apk",
-    "size": 4383322,
-    "sha256": "b68c8b9ba5f067e11f6aad29142d92794b0b6018ad45e65059ca62df8018a536",
+    "version": "1.0.146",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.146/Mekano.apk",
+    "size": 4384618,
+    "sha256": "091ceabd8c2b3a2ac1a40445f8126d21bd11183df3191f95bfb8b7adf1439cb7",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Kasir kini menampilkan QRIS bengkel dengan ukuran besar saat memilih pembayaran QRIS (ketuk untuk memperbesar), dan daftar rekening beserta tombol salin saat memilih Transfer",
-      "Baru: Tombol Bagikan invoice & QRIS di Kasir untuk menagih pelanggan lewat WhatsApp: invoice, QRIS, dan rekening dalam satu gambar (dicatat sebagai bon sampai pembayaran masuk)",
-      "Baru: Setelah mencatat bon di Kasir, ada tombol Tagih via WA di layar selesai"
+      "Baru: Data Master, tab Mekanik, kini ada Jasa per mekanik: total jasa dan jumlah SPK yang dikerjakan tiap mekanik selama sebulan",
+      "Baru: Ganti bulan dengan tanda panah; ketuk nama mekanik untuk melihat rincian SPK dan jasanya",
+      "Baru: SPK yang masih dikerjakan ditampilkan terpisah, belum dihitung ke total jasa sampai invoice terbit"
     ]
   },
   "min": {
