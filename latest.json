@@ -1,13 +1,14 @@
 {
   "android": {
-    "version": "1.0.144",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.144/Mekano.apk",
-    "size": 4382422,
-    "sha256": "b1a573e379c6513dda6c4dcf718f4608537c4b0e8ba020296b020d1107094d92",
+    "version": "1.0.145",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.145/Mekano.apk",
+    "size": 4383322,
+    "sha256": "b68c8b9ba5f067e11f6aad29142d92794b0b6018ad45e65059ca62df8018a536",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Alamat layanan kini mekano.sbs, lebih mudah diingat dan bisa dibuka di jaringan yang sebelumnya memblokir alamat lama",
-      "Baru: Layar TV antrean dibuka di mekano.sbs/tv (alamat lama tetap jadi cadangan otomatis)"
+      "Baru: Kasir kini menampilkan QRIS bengkel dengan ukuran besar saat memilih pembayaran QRIS (ketuk untuk memperbesar), dan daftar rekening beserta tombol salin saat memilih Transfer",
+      "Baru: Tombol Bagikan invoice & QRIS di Kasir untuk menagih pelanggan lewat WhatsApp: invoice, QRIS, dan rekening dalam satu gambar (dicatat sebagai bon sampai pembayaran masuk)",
+      "Baru: Setelah mencatat bon di Kasir, ada tombol Tagih via WA di layar selesai"
     ]
   },
   "min": {
