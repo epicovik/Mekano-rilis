@@ -1,12 +1,13 @@
 {
   "android": {
-    "version": "1.0.153",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.153/Mekano.apk",
-    "size": 4393322,
-    "sha256": "edbbab3666b8d12a9fd9bd8c4044db5ef97828ccc1fa67f998c4570666979bf8",
+    "version": "1.0.154",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.154/Mekano.apk",
+    "size": 4393954,
+    "sha256": "87bd2045fcffc1b37a96d9751af62fe5a605faa3ff2a927a34e8f2dfe20c69ab",
     "at": "2026-11-14",
     "notes": [
-      "Perbaikan: Invoice tanpa kolom \"Hormat kami\" (tanda tangan); catatan kini selebar halaman."
+      "Baru: Menu Mekanik sendiri di Lainnya (daftar mekanik dan Jasa per mekanik), tidak lagi menumpuk di Data Master. Baris mekanik lebih ringkas: nama, SPK selesai, total jasa, dan label \"dikerjakan\".",
+      "Perbaikan: Di SPK Baru (motor, shock, dan EV), \"Pelanggan lama?\" kini kotak berwarna dengan petunjuk \"Ketuk namanya, data terisi otomatis\", panah di tiap kartu, dan pemisah \"atau pelanggan baru: isi di bawah\"."
     ]
   },
   "min": {
