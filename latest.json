@@ -1,17 +1,13 @@
 {
   "android": {
-    "version": "1.0.138",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.138/Mekano.apk",
-    "size": 4380954,
-    "sha256": "0faa6e0d1ff4518c9021b5a8a58e5f67e35be7285c7eb4026240b88d47621b5f",
-    "at": "2026-11-07",
+    "version": "1.0.140",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.140/Mekano.apk",
+    "size": 4380702,
+    "sha256": "952d0c2b3f759469aca7b2c932bc10897caede1d8098b228211bf36f8b723f8b",
+    "at": "2026-11-14",
     "notes": [
-      "Perbaikan: Pembukuan lebih akurat: penyusutan aset, PPN dengan kompensasi lebih bayar, HPP saat retur penjualan, estimasi PPh, dan PPh Final lebih bayar",
-      "Perbaikan: Pembayaran refund retur tidak bisa dihapus lagi, supaya kas dan jurnal tetap cocok",
-      "Baru: Laporan memakai format SAK EMKM: Laporan Posisi Keuangan, Laba Rugi dengan Laba Sebelum Pajak, Beban Pajak Penghasilan, dan Laba Setelah Pajak",
-      "Baru: Neraca punya kolom pembanding 31 Desember tahun lalu, dan catatan rasio lancar lebih jelas",
-      "Baru: Tambah Jasa ke SPK memberi tanda jelas: lencana di jasa yang sudah masuk, banner konfirmasi, ringkasan jumlah dan total, getar halus, dan pemberitahuan saat jasa dihapus",
-      "Perbaikan: Aplikasi lebih ringan saat membuka SPK dan daftar panjang; daftar Servis dan Stok dimuat bertahap dengan tombol tampilkan lebih banyak"
+      "Baru: Di tablet, aplikasi bisa diputar mendatar dengan tampilan lebar dan menu di samping (HP tetap potret)",
+      "Perbaikan: Angka ringkasan di Beranda tidak lagi terpotong di layar tablet kecil"
     ]
   },
   "min": {
