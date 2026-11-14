@@ -16,14 +16,15 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.33",
+    "version": "1.0.34",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120936726,
-    "sha256": "674fb8d32076af71fe5238b29d39693f7d472c783cdd6006feb990f6caa9a08d",
+    "size": 120937341,
+    "sha256": "2a94beb222b9287a35fa587b35945db1c4c5db0fb6a94f1cd170594c52563b50",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Alamat layanan kini mekano.sbs, lebih mudah diingat dan bisa dibuka di jaringan yang sebelumnya memblokir alamat lama",
-      "Baru: Layar TV antrean dibuka di mekano.sbs/tv (alamat lama tetap jadi cadangan otomatis)"
+      "Baru: Kasir kini menampilkan QRIS bengkel dengan ukuran besar saat memilih pembayaran QRIS (ketuk untuk memperbesar), dan daftar rekening beserta tombol salin saat memilih Transfer",
+      "Baru: Tombol Bagikan invoice & QRIS di Kasir untuk menagih pelanggan lewat WhatsApp: invoice, QRIS, dan rekening dalam satu gambar (dicatat sebagai bon sampai pembayaran masuk)",
+      "Baru: Setelah mencatat bon di Kasir, ada tombol Tagih via WA di layar selesai"
     ]
   }
 }
