@@ -16,15 +16,15 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.35",
+    "version": "1.0.36",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120938411,
-    "sha256": "cf1dea6cd0fdf24dd49038f0d8dc921858bf608d6c56ae5c9b3961b772399e49",
+    "size": 120939198,
+    "sha256": "5aebf85d73102289c658ce3790aad99fdbdc8753de55b574fc8ff321496baa24",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Data Master, tab Mekanik, kini ada Jasa per mekanik: total jasa dan jumlah SPK yang dikerjakan tiap mekanik selama sebulan",
-      "Baru: Ganti bulan dengan tanda panah; ketuk nama mekanik untuk melihat rincian SPK dan jasanya",
-      "Baru: SPK yang masih dikerjakan ditampilkan terpisah, belum dihitung ke total jasa sampai invoice terbit"
+      "Baru: Jasa per mekanik kini bisa difilter per periode: Bulan, tanggal 1–15 / 16–akhir, 7 hari, 14 hari, atau Kustom (pilih Dari dan Sampai sendiri)",
+      "Baru: Tombol panah menggeser periode sepanjang rentang yang dipilih, cocok untuk penggajian mekanik per 2 minggu",
+      "Baru: Pilihan periode diingat di perangkat"
     ]
   }
 }
