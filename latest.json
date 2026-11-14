@@ -1,13 +1,15 @@
 {
   "android": {
-    "version": "1.0.154",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.154/Mekano.apk",
-    "size": 4393954,
-    "sha256": "87bd2045fcffc1b37a96d9751af62fe5a605faa3ff2a927a34e8f2dfe20c69ab",
+    "version": "1.0.155",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.155/Mekano.apk",
+    "size": 4396942,
+    "sha256": "0142144124b7f070297adffea854d679ac5766df830677006689c3f2d216de0c",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Menu Mekanik sendiri di Lainnya (daftar mekanik dan Jasa per mekanik), tidak lagi menumpuk di Data Master. Baris mekanik lebih ringkas: nama, SPK selesai, total jasa, dan label \"dikerjakan\".",
-      "Perbaikan: Di SPK Baru (motor, shock, dan EV), \"Pelanggan lama?\" kini kotak berwarna dengan petunjuk \"Ketuk namanya, data terisi otomatis\", panah di tiap kartu, dan pemisah \"atau pelanggan baru: isi di bawah\"."
+      "Baru: QRIS di invoice lebih besar dan mudah dipindai. Invoice sampai 6 baris: QRIS besar di tengah. 7-16 baris: QRIS mengecil di kiri, rekening di kanan. Di atas 16 baris: QRIS dikirim terpisah, dan ditawarkan langsung setelah invoice terkirim. Berlaku juga di Kartu Pembayaran.",
+      "Baru: Potong gambar QRIS sesuka hati saat unggah (tarik sudut dan sisi, tombol \"Jadikan persegi\" dan \"Seluruh gambar\"), dan \"Potong ulang\" untuk QRIS yang sudah tersimpan (Setelan > Rekening & QRIS).",
+      "Perbaikan: Logo Mekano kecil di kaki invoice dan kartu kini terlihat utuh (bagian putihnya tidak hilang di latar putih).",
+      "Perbaikan: Nama pelanggan yang panjang di invoice tampil sampai 3 baris, tidak terpotong."
     ]
   },
   "min": {
