@@ -1,14 +1,14 @@
 {
   "android": {
-    "version": "1.0.146",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.146/Mekano.apk",
-    "size": 4384618,
-    "sha256": "091ceabd8c2b3a2ac1a40445f8126d21bd11183df3191f95bfb8b7adf1439cb7",
+    "version": "1.0.147",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.147/Mekano.apk",
+    "size": 4385646,
+    "sha256": "4c5a4b0435d5cd51e0d89cce3106bffca9e227f2fd9b1e3669a342a4fe385105",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Data Master, tab Mekanik, kini ada Jasa per mekanik: total jasa dan jumlah SPK yang dikerjakan tiap mekanik selama sebulan",
-      "Baru: Ganti bulan dengan tanda panah; ketuk nama mekanik untuk melihat rincian SPK dan jasanya",
-      "Baru: SPK yang masih dikerjakan ditampilkan terpisah, belum dihitung ke total jasa sampai invoice terbit"
+      "Baru: Jasa per mekanik kini bisa difilter per periode: Bulan, tanggal 1–15 / 16–akhir, 7 hari, 14 hari, atau Kustom (pilih Dari dan Sampai sendiri)",
+      "Baru: Tombol panah menggeser periode sepanjang rentang yang dipilih, cocok untuk penggajian mekanik per 2 minggu",
+      "Baru: Pilihan periode diingat di perangkat"
     ]
   },
   "min": {
