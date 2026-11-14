@@ -1,16 +1,16 @@
 {
   "android": {
-    "version": "1.0.149",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.149/Mekano.apk",
-    "size": 4389158,
-    "sha256": "7b03ba3d0ca2c33521798f1fbd1571e20fd6eca3b4650c0f9158bd50f8c7c94a",
+    "version": "1.0.150",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.150/Mekano.apk",
+    "size": 4390150,
+    "sha256": "52f39c0a8e48977b3737db046e356aba6e46f29389939d1ac1e49aac96f8a69b",
     "at": "2026-11-14",
     "notes": [
-      "Perbaikan: Pajak di HP kini berupa kartu per bulan, sehingga kolom Terutang, Disetor, dan tombol Catat setor langsung terlihat tanpa menggeser ke samping",
-      "Perbaikan: Baris menu atas (Pelanggan, Laporan, Pajak, Marketplace, Data Master, Setelan) otomatis menggeser ke halaman yang sedang dibuka, dengan petunjuk pudar di tepi bila masih ada menu lain",
-      "Perbaikan: Tawaran panduan Mas Shock tidak lagi menutupi judul halaman dan sembunyi saat ada lembar terbuka",
-      "Perbaikan: Kartu antrian di Beranda seragam dengan kartu lain; tanda \"—\" untuk harga kosong diganti keterangan yang jelas",
-      "Perbaikan: Tab Keuangan tidak lagi terpotong dua baris dan ikon Pindah kas diganti panah dua arah"
+      "Perbaikan: Mode gelap di Stok dan Servis: barang habis, label stok, dan kartu \"Siap diambil\" kini terbaca jelas",
+      "Perbaikan: Tema Pro: tautan \"Status lain / koreksi\" dan \"Lengkapi\" di dalam kartu sebelumnya tidak terlihat, kini terbaca",
+      "Perbaikan: Ikon menu Setelan diganti ikon garis yang seragam dengan navigasi",
+      "Perbaikan: Halaman kosong di Beranda dan Keuangan kini menyediakan tombol langkah pertama (+ SPK Baru, Catat pemasukan, Catat pengeluaran)",
+      "Perbaikan: Di detail SPK hanya Kirim update dan Terbitkan Invoice yang berwarna tebal, tombol + Sparepart dibuat biasa agar langkah utama lebih jelas"
     ]
   },
   "min": {
