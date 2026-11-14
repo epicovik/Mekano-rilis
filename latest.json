@@ -15,13 +15,14 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.31",
+    "version": "1.0.32",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120935759,
-    "sha256": "4c26f36e4f5cb2d22afd00cc965c64fc2b51a9d5a5638129277fc90abf94cd89",
+    "size": 120936562,
+    "sha256": "ca16d8009371d14b092af1b6bccb4380ff9764fc47503581ce4bebe3026500dd",
     "at": "2026-11-14",
     "notes": [
-      "Perbaikan: Angka ringkasan di Beranda tidak lagi terpotong saat jendela aplikasi dipersempit"
+      "Baru: Data Master kini punya tab Mekanik untuk mendaftar mekanik bengkel",
+      "Baru: Di SPK (biasa, Shock, dan Baterai EV), mekanik tinggal diketuk, tidak perlu mengetik lagi"
     ]
   }
 }
