@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.0.155",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.155/Mekano.apk",
-    "size": 4396942,
-    "sha256": "0142144124b7f070297adffea854d679ac5766df830677006689c3f2d216de0c",
+    "version": "1.0.156",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.156/Mekano.apk",
+    "size": 4397862,
+    "sha256": "ff56fc060b5f4eb45d6419c88cd49a26f0784271e03ba5c33f2a11e8508fef6c",
     "at": "2026-11-14",
     "notes": [
-      "Baru: QRIS di invoice lebih besar dan mudah dipindai. Invoice sampai 6 baris: QRIS besar di tengah. 7-16 baris: QRIS mengecil di kiri, rekening di kanan. Di atas 16 baris: QRIS dikirim terpisah, dan ditawarkan langsung setelah invoice terkirim. Berlaku juga di Kartu Pembayaran.",
-      "Baru: Potong gambar QRIS sesuka hati saat unggah (tarik sudut dan sisi, tombol \"Jadikan persegi\" dan \"Seluruh gambar\"), dan \"Potong ulang\" untuk QRIS yang sudah tersimpan (Setelan > Rekening & QRIS).",
-      "Perbaikan: Logo Mekano kecil di kaki invoice dan kartu kini terlihat utuh (bagian putihnya tidak hilang di latar putih).",
-      "Perbaikan: Nama pelanggan yang panjang di invoice tampil sampai 3 baris, tidak terpotong."
+      "Baru: Gaya ke-4 untuk Antrean Live bernama Diorama (Pengaturan > Mekano Pro > Antrean Live > Gaya tampilan). Bengkel tampil seperti maket 3D dengan 5 lift hidrolik; motor yang sedang dikerjakan naik di lift dengan nomor antrean dan tahapnya, bergerak pelan (idle), keluar saat selesai, dan motor baru masuk dengan warna berbeda di setiap lift.",
+      "Baru: Di HP pelanggan, motor milik pelanggan diberi cahaya sorot (spotlight) supaya mudah ditemukan, lengkap dengan kartu \"Motor Anda\".",
+      "Baru: Daftar \"Siap diambil\" menampilkan banyak motor sekaligus dengan penanda \"+N motor lagi\". Warna lantai, kartu, dan bar progres mengikuti tema aplikasi.",
+      "Catatan: Gaya Diorama dan gaya lain tampil setelah server Ruang Tunggu diperbarui; sebelum itu TV dan HP pelanggan tetap memakai gaya Klasik."
     ]
   },
   "min": {
