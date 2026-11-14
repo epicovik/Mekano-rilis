@@ -15,14 +15,14 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.32",
+    "version": "1.0.33",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120936562,
-    "sha256": "ca16d8009371d14b092af1b6bccb4380ff9764fc47503581ce4bebe3026500dd",
+    "size": 120936726,
+    "sha256": "674fb8d32076af71fe5238b29d39693f7d472c783cdd6006feb990f6caa9a08d",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Data Master kini punya tab Mekanik untuk mendaftar mekanik bengkel",
-      "Baru: Di SPK (biasa, Shock, dan Baterai EV), mekanik tinggal diketuk, tidak perlu mengetik lagi"
+      "Baru: Alamat layanan kini mekano.sbs, lebih mudah diingat dan bisa dibuka di jaringan yang sebelumnya memblokir alamat lama",
+      "Baru: Layar TV antrean dibuka di mekano.sbs/tv (alamat lama tetap jadi cadangan otomatis)"
     ]
   }
 }
