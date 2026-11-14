@@ -16,14 +16,15 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.40",
+    "version": "1.0.41",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120942831,
-    "sha256": "db314dc12c1744c46f253c969d7c4bd9234a1597d82cab71059ebff0e1dbe2e3",
+    "size": 120944812,
+    "sha256": "26abf46195a887d3fb105fcf9094357813795fbc4c60dd18886085b6497f57b9",
     "at": "2026-11-14",
     "notes": [
-      "Perbaikan: Warna kartu invoice/pembayaran kini seragam mengikuti warna tema yang dipilih (header, tabel, kotak \"Total yang perlu dibayar\", dan angka), tidak lagi cokelat atau biru Mekano.",
-      "Perbaikan: Warna oranye pada invoice kini tampil oranye, bukan cokelat. Berlaku juga di kartu SPK Shock dan EV."
+      "Baru: Invoice kini bergaya invoice resmi: kop usaha, kolom \"Ditagihkan kepada\", nomor urut, header pemisah Jasa dan Sparepart, terbilang, stempel LUNAS, dan kolom tanda tangan.",
+      "Baru: Watermark logo Mekano (monokrom, tipis) di tengah invoice dan kartu pelanggan.",
+      "Perbaikan: Kartu invoice, pembayaran, dan progres selalu memakai warna Mekano, tidak mengikuti warna tema Pro."
     ]
   }
 }
