@@ -1,13 +1,12 @@
 {
   "android": {
-    "version": "1.0.140",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.140/Mekano.apk",
-    "size": 4380702,
-    "sha256": "952d0c2b3f759469aca7b2c932bc10897caede1d8098b228211bf36f8b723f8b",
+    "version": "1.0.142",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.142/Mekano.apk",
+    "size": 4381070,
+    "sha256": "7c9256e2bbef29c78274238640622a4027bb79b22306b242b37352c76fba9940",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Di tablet, aplikasi bisa diputar mendatar dengan tampilan lebar dan menu di samping (HP tetap potret)",
-      "Perbaikan: Angka ringkasan di Beranda tidak lagi terpotong di layar tablet kecil"
+      "Perbaikan: Cetak ke printer Bluetooth di Android 12 ke atas (termasuk tablet) tidak lagi gagal dengan pesan izin BLUETOOTH_SCAN"
     ]
   },
   "min": {
