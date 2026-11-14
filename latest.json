@@ -16,15 +16,20 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.36",
+    "version": "1.0.37",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120939198,
-    "sha256": "5aebf85d73102289c658ce3790aad99fdbdc8753de55b574fc8ff321496baa24",
+    "size": 120941025,
+    "sha256": "3bc06fdd29d1815f96cc5d6eb5f4f8b2eae850f623268331642a1e000075a1ef",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Jasa per mekanik kini bisa difilter per periode: Bulan, tanggal 1–15 / 16–akhir, 7 hari, 14 hari, atau Kustom (pilih Dari dan Sampai sendiri)",
-      "Baru: Tombol panah menggeser periode sepanjang rentang yang dipilih, cocok untuk penggajian mekanik per 2 minggu",
-      "Baru: Pilihan periode diingat di perangkat"
+      "Baru: Pelanggan baru tanpa nama atau WhatsApp kini bisa dibuatkan SPK (motor, shock, dan baterai EV). Lengkapi nanti lewat tautan \"Lengkapi\" di SPK, atau saat motor diserahkan",
+      "Baru: Menambah jasa yang belum ada kini lewat pencarian: ketik nama jasa, isi biaya, otomatis masuk SPK dan tersimpan di daftar jasa",
+      "Baru: Peringatan sebelum SPK dibuat bila mekanik belum dipilih (motor, shock, EV)",
+      "Baru: Kirim update WhatsApp bisa langsung mengisi nomor pelanggan yang belum ada",
+      "Baru: Kasir punya bar Bayar yang selalu terlihat dengan total dan jumlah barang; daftar barang ditampilkan 8 dulu",
+      "Baru: Stok: filter lewat chip (Semua, Menipis, Habis), pilihan urutan, dan barang habis ditandai merah",
+      "Perbaikan: Kartu ringkasan Servis tidak lagi dobel dengan filter; kartu antrian seragam dengan kartu lain",
+      "Perbaikan: Detail SPK lebih ringkas (rapor kosong, petunjuk geser) dan form SPK mendahulukan plat, KM, dan nama"
     ]
   }
 }
