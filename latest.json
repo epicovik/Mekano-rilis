@@ -15,20 +15,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.29",
+    "version": "1.0.31",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120935634,
-    "sha256": "77ab681b016c8cac7eef4036609dc0b92de437b45c890e92daefa649927f6ee7",
-    "at": "2026-11-06",
+    "size": 120935759,
+    "sha256": "4c26f36e4f5cb2d22afd00cc965c64fc2b51a9d5a5638129277fc90abf94cd89",
+    "at": "2026-11-14",
     "notes": [
-      "Baru: Antrean Live (dulu Tab TV) di Ruang Tunggu: papan antrean bertema terang mengikuti warna bengkel, motor pelanggan ditandai MOTOR ANDA beserta urutannya, dan teks info berjalan di bawah",
-      "Baru: Info berjalan untuk promo, pengumuman, dan hal penting: beberapa baris, pilih jenis, atur tanggal berlaku, nyalakan atau matikan tiap baris, dengan pratinjau langsung",
-      "Baru: Layar TV bengkel: buat link TV lalu buka di browser TV atau lewat cast HP, ada QR dan panduan; tampil layar penuh, berganti halaman otomatis, dan tidak menampilkan data pelanggan",
-      "Baru: Halaman Mekano Pro ditata ulang dengan kartu lipat, saklar on off, dan simpan otomatis, tanpa tombol Simpan lagi. Link Ruang Tunggu di WhatsApp kini tampil dengan kartu Mekano",
-      "Baru: Huruf antrean mengikuti hari masuk (Senin A sampai Minggu G) untuk SPK baru, jadi motor inap mudah dilacak hari masuknya",
-      "Baru: Antrean Live menampilkan motor inap di paling atas dengan tanda Inap dan hari masuknya, dan motor tidak hilang dari papan selama masih dikerjakan",
-      "Baru: Hubungkan TV: buka alamat pendek di browser TV, lalu scan QR atau ketik kode 6 angka dari HP. Ada juga Kode TV 8 angka sebagai cadangan",
-      "Baru: Plat di Antrean Live bergaya plat SPK, tetap disamarkan, motor listrik bergaris biru"
+      "Perbaikan: Angka ringkasan di Beranda tidak lagi terpotong saat jendela aplikasi dipersempit"
     ]
   }
 }
