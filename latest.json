@@ -18,20 +18,17 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.37",
+    "version": "1.0.38",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120941025,
-    "sha256": "3bc06fdd29d1815f96cc5d6eb5f4f8b2eae850f623268331642a1e000075a1ef",
+    "size": 120941775,
+    "sha256": "3b6674686be94a275139c3dcc9acba9be0fbdc053ed21dd727d9d36b4573e205",
     "at": "2026-11-14",
     "notes": [
-      "Baru: Pelanggan baru tanpa nama atau WhatsApp kini bisa dibuatkan SPK (motor, shock, dan baterai EV). Lengkapi nanti lewat tautan \"Lengkapi\" di SPK, atau saat motor diserahkan",
-      "Baru: Menambah jasa yang belum ada kini lewat pencarian: ketik nama jasa, isi biaya, otomatis masuk SPK dan tersimpan di daftar jasa",
-      "Baru: Peringatan sebelum SPK dibuat bila mekanik belum dipilih (motor, shock, EV)",
-      "Baru: Kirim update WhatsApp bisa langsung mengisi nomor pelanggan yang belum ada",
-      "Baru: Kasir punya bar Bayar yang selalu terlihat dengan total dan jumlah barang; daftar barang ditampilkan 8 dulu",
-      "Baru: Stok: filter lewat chip (Semua, Menipis, Habis), pilihan urutan, dan barang habis ditandai merah",
-      "Perbaikan: Kartu ringkasan Servis tidak lagi dobel dengan filter; kartu antrian seragam dengan kartu lain",
-      "Perbaikan: Detail SPK lebih ringkas (rapor kosong, petunjuk geser) dan form SPK mendahulukan plat, KM, dan nama"
+      "Perbaikan: Pajak di HP kini berupa kartu per bulan, sehingga kolom Terutang, Disetor, dan tombol Catat setor langsung terlihat tanpa menggeser ke samping",
+      "Perbaikan: Baris menu atas (Pelanggan, Laporan, Pajak, Marketplace, Data Master, Setelan) otomatis menggeser ke halaman yang sedang dibuka, dengan petunjuk pudar di tepi bila masih ada menu lain",
+      "Perbaikan: Tawaran panduan Mas Shock tidak lagi menutupi judul halaman dan sembunyi saat ada lembar terbuka",
+      "Perbaikan: Kartu antrian di Beranda seragam dengan kartu lain; tanda \"—\" untuk harga kosong diganti keterangan yang jelas",
+      "Perbaikan: Tab Keuangan tidak lagi terpotong dua baris dan ikon Pindah kas diganti panah dua arah"
     ]
   }
 }
