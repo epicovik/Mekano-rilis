@@ -1,15 +1,14 @@
 {
   "android": {
-    "version": "1.0.158",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.158/Mekano.apk",
-    "size": 4399034,
-    "sha256": "1a233c351cfdfc01c7dd1aab5a8fa04cfba56434af1656be786266a982b3e6d9",
+    "version": "1.0.159",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.159/Mekano.apk",
+    "size": 4399166,
+    "sha256": "0701c0a5c9dd3aa324f8b01b19bd0eb5165b13a37ecb0d9e6dfc5960a808dc2b",
     "at": "2026-11-15",
     "notes": [
-      "Baru: Pengaturan > Mekano Pro > Antrean Live punya \"Putar musik YouTube di layar TV\". Tempel link lagu (satu link per baris, diputar berurutan) atau link playlist; video tampil di pojok kanan bawah layar TV di keempat gaya, tanpa menutupi antrean. Suara menyala setelah sekali menekan OK di remote TV.",
-      "Baru: Saklar \"Sembunyikan motor inap\" di Antrean Live; jumlahnya tampil di pil \"INAP | 3 MOTOR\".",
-      "Baru: Bar info berjalan tampil lebih modern di semua gaya Antrean Live.",
-      "Catatan: Tampilan di TV muncul setelah server Ruang Tunggu diperbarui (otomatis). Fitur YouTube butuh APK versi ini dan TV yang online."
+      "Baru: Pengaturan > Mekano Pro > Antrean Live > musik YouTube sekarang memberi peringatan jika Anda menempel link Mix (list=RD...) yang tidak bisa diputar di TV. Gunakan playlist biasa (list=PL...).",
+      "Perbaikan: link lagu yang ditulis lebih dulu diputar dulu, lalu dilanjut ke link playlist.",
+      "Perbaikan: gambar diorama bengkel lebih rapi dan tajam, tanpa bercak biru di tembok."
     ]
   },
   "min": {
