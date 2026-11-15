@@ -17,16 +17,15 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.46",
+    "version": "1.0.47",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120948845,
-    "sha256": "76b5d952a6281a5eb590e2a2917ea56a5f5a566cf9de8e70fcd682bab9406879",
+    "size": 120949046,
+    "sha256": "41cfabba70f9f1a3042c2f68375ea9d3af1458351566c844243421896a5be37f",
     "at": "2026-11-15",
     "notes": [
-      "Baru: Pengaturan > Mekano Pro > Antrean Live punya \"Putar musik YouTube di layar TV\". Tempel link lagu (satu link per baris, diputar berurutan) atau link playlist; video tampil di pojok kanan bawah layar TV di keempat gaya, tanpa menutupi antrean. Suara menyala setelah sekali menekan OK di remote TV.",
-      "Baru: Saklar \"Sembunyikan motor inap\" di Antrean Live; jumlahnya tampil di pil \"INAP | 3 MOTOR\".",
-      "Baru: Bar info berjalan tampil lebih modern di semua gaya Antrean Live.",
-      "Catatan: Tampilan di TV muncul setelah server Ruang Tunggu diperbarui (otomatis). Fitur YouTube butuh APK versi ini dan TV yang online."
+      "Baru: Pengaturan > Mekano Pro > Antrean Live > musik YouTube sekarang memberi peringatan jika Anda menempel link Mix (list=RD...) yang tidak bisa diputar di TV. Gunakan playlist biasa (list=PL...).",
+      "Perbaikan: link lagu yang ditulis lebih dulu diputar dulu, lalu dilanjut ke link playlist.",
+      "Perbaikan: gambar diorama bengkel lebih rapi dan tajam, tanpa bercak biru di tembok."
     ]
   }
 }
