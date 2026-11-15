@@ -1,15 +1,14 @@
 {
   "android": {
-    "version": "1.0.156",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.156/Mekano.apk",
-    "size": 4397862,
-    "sha256": "ff56fc060b5f4eb45d6419c88cd49a26f0784271e03ba5c33f2a11e8508fef6c",
-    "at": "2026-11-14",
+    "version": "1.0.157",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.157/Mekano.apk",
+    "size": 4398022,
+    "sha256": "cb4c0b02c0bf12ef46099e633e12bcba7dc64c21ceb30788d9069a847157b760",
+    "at": "2026-11-15",
     "notes": [
-      "Baru: Gaya ke-4 untuk Antrean Live bernama Diorama (Pengaturan > Mekano Pro > Antrean Live > Gaya tampilan). Bengkel tampil seperti maket 3D dengan 5 lift hidrolik; motor yang sedang dikerjakan naik di lift dengan nomor antrean dan tahapnya, bergerak pelan (idle), keluar saat selesai, dan motor baru masuk dengan warna berbeda di setiap lift.",
-      "Baru: Di HP pelanggan, motor milik pelanggan diberi cahaya sorot (spotlight) supaya mudah ditemukan, lengkap dengan kartu \"Motor Anda\".",
-      "Baru: Daftar \"Siap diambil\" menampilkan banyak motor sekaligus dengan penanda \"+N motor lagi\". Warna lantai, kartu, dan bar progres mengikuti tema aplikasi.",
-      "Catatan: Gaya Diorama dan gaya lain tampil setelah server Ruang Tunggu diperbarui; sebelum itu TV dan HP pelanggan tetap memakai gaya Klasik."
+      "Baru: Pengaturan > Mekano Pro > Antrean Live punya saklar \"Sembunyikan motor inap\". Saat menyala, motor yang menginap tidak tampil di daftar TV dan HP pelanggan, jumlahnya tampil terpisah dalam pil \"INAP | 3 MOTOR\". Motor milik pelanggan tetap terlihat di HP-nya sendiri.",
+      "Baru: Bar info berjalan tampil lebih modern di semua gaya Antrean Live: label panah gelap dengan ikon megafon, penanda PROMO/INFO/PENTING beranimasi, angka dan harga disorot, teks memudar halus di ujung.",
+      "Catatan: Tampilan baru di TV dan HP pelanggan muncul setelah server Ruang Tunggu diperbarui (sudah otomatis). Saklar inap butuh APK versi ini."
     ]
   },
   "min": {
