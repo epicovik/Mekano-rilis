@@ -14,13 +14,14 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.48",
+    "version": "1.0.49",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120949048,
-    "sha256": "97fa22caf60d3bebeaca6f538ff745b6b6438b0df7d7c1b4c305d2aa580c6b5b",
+    "size": 120949154,
+    "sha256": "5468cdeadf0edc2cbaed6a946f121f31495c550cfdec01ef081b7ab399394ab4",
     "at": "2026-11-15",
     "notes": [
-      "Baru: saat kartu motor digeser ke \"Selesai - Siap Diambil\", tombol Kirim WA sekarang tetap muncul, termasuk untuk motor yang Ruang Tunggu-nya aktif. Tombolnya tampil lebih lama (sekitar 12 detik) supaya tidak terlewat."
+      "Baru: saat motor, shock, atau EV digeser ke \"Selesai - Siap Diambil\", pesan WA kini memakai invoice resmi (rincian, sisa tagihan, rekening, QRIS) bila invoice sudah terbit.",
+      "Baru: ada tombol Gambar di samping Kirim WA untuk mengirim gambar invoice (atau tagihan bila invoice belum terbit) beserta gambar QRIS."
     ]
   }
 }
