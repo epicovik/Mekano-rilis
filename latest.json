@@ -1,14 +1,12 @@
 {
   "android": {
-    "version": "1.0.159",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.159/Mekano.apk",
-    "size": 4399166,
-    "sha256": "0701c0a5c9dd3aa324f8b01b19bd0eb5165b13a37ecb0d9e6dfc5960a808dc2b",
+    "version": "1.0.160",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.160/Mekano.apk",
+    "size": 4399198,
+    "sha256": "a8c49bfa3c70c0d6662fa484b0d23aee647589951b3bc87aab616ec4df37885c",
     "at": "2026-11-15",
     "notes": [
-      "Baru: Pengaturan > Mekano Pro > Antrean Live > musik YouTube sekarang memberi peringatan jika Anda menempel link Mix (list=RD...) yang tidak bisa diputar di TV. Gunakan playlist biasa (list=PL...).",
-      "Perbaikan: link lagu yang ditulis lebih dulu diputar dulu, lalu dilanjut ke link playlist.",
-      "Perbaikan: gambar diorama bengkel lebih rapi dan tajam, tanpa bercak biru di tembok."
+      "Baru: saat kartu motor digeser ke \"Selesai - Siap Diambil\", tombol Kirim WA sekarang tetap muncul, termasuk untuk motor yang Ruang Tunggu-nya aktif. Tombolnya tampil lebih lama (sekitar 12 detik) supaya tidak terlewat."
     ]
   },
   "min": {
