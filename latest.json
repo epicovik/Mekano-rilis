@@ -1,12 +1,13 @@
 {
   "android": {
-    "version": "1.0.160",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.160/Mekano.apk",
-    "size": 4399198,
-    "sha256": "a8c49bfa3c70c0d6662fa484b0d23aee647589951b3bc87aab616ec4df37885c",
+    "version": "1.0.161",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.161/Mekano.apk",
+    "size": 4399606,
+    "sha256": "cb1f7fd035dc78fae3fa13532c146c49263cb6e4556b7c8d664466817b4d1c21",
     "at": "2026-11-15",
     "notes": [
-      "Baru: saat kartu motor digeser ke \"Selesai - Siap Diambil\", tombol Kirim WA sekarang tetap muncul, termasuk untuk motor yang Ruang Tunggu-nya aktif. Tombolnya tampil lebih lama (sekitar 12 detik) supaya tidak terlewat."
+      "Baru: saat motor, shock, atau EV digeser ke \"Selesai - Siap Diambil\", pesan WA kini memakai invoice resmi (rincian, sisa tagihan, rekening, QRIS) bila invoice sudah terbit.",
+      "Baru: ada tombol Gambar di samping Kirim WA untuk mengirim gambar invoice (atau tagihan bila invoice belum terbit) beserta gambar QRIS."
     ]
   },
   "min": {
