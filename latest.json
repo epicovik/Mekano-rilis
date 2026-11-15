@@ -14,15 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.47",
+    "version": "1.0.48",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120949046,
-    "sha256": "41cfabba70f9f1a3042c2f68375ea9d3af1458351566c844243421896a5be37f",
+    "size": 120949048,
+    "sha256": "97fa22caf60d3bebeaca6f538ff745b6b6438b0df7d7c1b4c305d2aa580c6b5b",
     "at": "2026-11-15",
     "notes": [
-      "Baru: Pengaturan > Mekano Pro > Antrean Live > musik YouTube sekarang memberi peringatan jika Anda menempel link Mix (list=RD...) yang tidak bisa diputar di TV. Gunakan playlist biasa (list=PL...).",
-      "Perbaikan: link lagu yang ditulis lebih dulu diputar dulu, lalu dilanjut ke link playlist.",
-      "Perbaikan: gambar diorama bengkel lebih rapi dan tajam, tanpa bercak biru di tembok."
+      "Baru: saat kartu motor digeser ke \"Selesai - Siap Diambil\", tombol Kirim WA sekarang tetap muncul, termasuk untuk motor yang Ruang Tunggu-nya aktif. Tombolnya tampil lebih lama (sekitar 12 detik) supaya tidak terlewat."
     ]
   }
 }
