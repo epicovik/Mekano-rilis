@@ -16,16 +16,15 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.44",
+    "version": "1.0.45",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120947293,
-    "sha256": "6886495b664a47f5b33ea655cbc76eb5e184059819a0f71ba9d9045413978fcd",
-    "at": "2026-11-14",
+    "size": 120948003,
+    "sha256": "7cca18ee92423cff5c1f40b8b6fc6f708d29fdc822cf5faa07e26c5cff3aaea6",
+    "at": "2026-11-15",
     "notes": [
-      "Baru: QRIS di invoice lebih besar dan mudah dipindai. Invoice sampai 6 baris: QRIS besar di tengah. 7-16 baris: QRIS mengecil di kiri, rekening di kanan. Di atas 16 baris: QRIS dikirim terpisah, dan ditawarkan langsung setelah invoice terkirim. Berlaku juga di Kartu Pembayaran.",
-      "Baru: Potong gambar QRIS sesuka hati saat unggah (tarik sudut dan sisi, tombol \"Jadikan persegi\" dan \"Seluruh gambar\"), dan \"Potong ulang\" untuk QRIS yang sudah tersimpan (Setelan > Rekening & QRIS).",
-      "Perbaikan: Logo Mekano kecil di kaki invoice dan kartu kini terlihat utuh (bagian putihnya tidak hilang di latar putih).",
-      "Perbaikan: Nama pelanggan yang panjang di invoice tampil sampai 3 baris, tidak terpotong."
+      "Baru: Pengaturan > Mekano Pro > Antrean Live punya saklar \"Sembunyikan motor inap\". Saat menyala, motor yang menginap tidak tampil di daftar TV dan HP pelanggan, jumlahnya tampil terpisah dalam pil \"INAP | 3 MOTOR\". Motor milik pelanggan tetap terlihat di HP-nya sendiri.",
+      "Baru: Bar info berjalan tampil lebih modern di semua gaya Antrean Live: label panah gelap dengan ikon megafon, penanda PROMO/INFO/PENTING beranimasi, angka dan harga disorot, teks memudar halus di ujung.",
+      "Catatan: Tampilan baru di TV dan HP pelanggan muncul setelah server Ruang Tunggu diperbarui (sudah otomatis). Saklar inap butuh APK versi ini."
     ]
   }
 }
