@@ -17,15 +17,16 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.45",
+    "version": "1.0.46",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120948003,
-    "sha256": "7cca18ee92423cff5c1f40b8b6fc6f708d29fdc822cf5faa07e26c5cff3aaea6",
+    "size": 120948845,
+    "sha256": "76b5d952a6281a5eb590e2a2917ea56a5f5a566cf9de8e70fcd682bab9406879",
     "at": "2026-11-15",
     "notes": [
-      "Baru: Pengaturan > Mekano Pro > Antrean Live punya saklar \"Sembunyikan motor inap\". Saat menyala, motor yang menginap tidak tampil di daftar TV dan HP pelanggan, jumlahnya tampil terpisah dalam pil \"INAP | 3 MOTOR\". Motor milik pelanggan tetap terlihat di HP-nya sendiri.",
-      "Baru: Bar info berjalan tampil lebih modern di semua gaya Antrean Live: label panah gelap dengan ikon megafon, penanda PROMO/INFO/PENTING beranimasi, angka dan harga disorot, teks memudar halus di ujung.",
-      "Catatan: Tampilan baru di TV dan HP pelanggan muncul setelah server Ruang Tunggu diperbarui (sudah otomatis). Saklar inap butuh APK versi ini."
+      "Baru: Pengaturan > Mekano Pro > Antrean Live punya \"Putar musik YouTube di layar TV\". Tempel link lagu (satu link per baris, diputar berurutan) atau link playlist; video tampil di pojok kanan bawah layar TV di keempat gaya, tanpa menutupi antrean. Suara menyala setelah sekali menekan OK di remote TV.",
+      "Baru: Saklar \"Sembunyikan motor inap\" di Antrean Live; jumlahnya tampil di pil \"INAP | 3 MOTOR\".",
+      "Baru: Bar info berjalan tampil lebih modern di semua gaya Antrean Live.",
+      "Catatan: Tampilan di TV muncul setelah server Ruang Tunggu diperbarui (otomatis). Fitur YouTube butuh APK versi ini dan TV yang online."
     ]
   }
 }
