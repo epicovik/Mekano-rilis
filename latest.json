@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.50",
+    "version": "1.0.51",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120949786,
-    "sha256": "712fb5277001cb0e8378605a4bf24699aad79d5e57e6ec392c7f054e97904d45",
+    "size": 120949987,
+    "sha256": "031d1600ba31584cab7c2f5053aa15659f7c37dc84eb8531e33bb498bda328c3",
     "at": "2026-11-16",
     "notes": [
-      "Perbaikan: pengaturan Antrean Live (termasuk link YouTube) kini mengikuti perubahan terbaru dari HP atau PC, jadi keduanya tidak saling menimpa dan layar TV selalu memakai pengaturan yang terakhir diubah."
+      "Baru: di kartu Tampilkan di TV bengkel ada Alamat singkat cadangan (mk.epicovik.workers.dev) dengan tombol salin, untuk TV yang tidak bisa membuka mekano.sbs. Cukup ketik alamat itu di browser TV, lalu hubungkan nomornya dari tombol Hubungkan TV."
     ]
   }
 }
