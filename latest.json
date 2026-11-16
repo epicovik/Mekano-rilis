@@ -1,13 +1,12 @@
 {
   "android": {
-    "version": "1.0.161",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.161/Mekano.apk",
-    "size": 4399606,
-    "sha256": "cb1f7fd035dc78fae3fa13532c146c49263cb6e4556b7c8d664466817b4d1c21",
-    "at": "2026-11-15",
+    "version": "1.0.162",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.162/Mekano.apk",
+    "size": 4400226,
+    "sha256": "c8ee296758ab2425e9ac97362f0650835743711da3e4dd9456f9d14d5506b1d4",
+    "at": "2026-11-16",
     "notes": [
-      "Baru: saat motor, shock, atau EV digeser ke \"Selesai - Siap Diambil\", pesan WA kini memakai invoice resmi (rincian, sisa tagihan, rekening, QRIS) bila invoice sudah terbit.",
-      "Baru: ada tombol Gambar di samping Kirim WA untuk mengirim gambar invoice (atau tagihan bila invoice belum terbit) beserta gambar QRIS."
+      "Perbaikan: pengaturan Antrean Live (termasuk link YouTube) kini mengikuti perubahan terbaru dari HP atau PC, jadi keduanya tidak saling menimpa dan layar TV selalu memakai pengaturan yang terakhir diubah."
     ]
   },
   "min": {
