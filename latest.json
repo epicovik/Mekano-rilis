@@ -14,14 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.49",
+    "version": "1.0.50",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120949154,
-    "sha256": "5468cdeadf0edc2cbaed6a946f121f31495c550cfdec01ef081b7ab399394ab4",
-    "at": "2026-11-15",
+    "size": 120949786,
+    "sha256": "712fb5277001cb0e8378605a4bf24699aad79d5e57e6ec392c7f054e97904d45",
+    "at": "2026-11-16",
     "notes": [
-      "Baru: saat motor, shock, atau EV digeser ke \"Selesai - Siap Diambil\", pesan WA kini memakai invoice resmi (rincian, sisa tagihan, rekening, QRIS) bila invoice sudah terbit.",
-      "Baru: ada tombol Gambar di samping Kirim WA untuk mengirim gambar invoice (atau tagihan bila invoice belum terbit) beserta gambar QRIS."
+      "Perbaikan: pengaturan Antrean Live (termasuk link YouTube) kini mengikuti perubahan terbaru dari HP atau PC, jadi keduanya tidak saling menimpa dan layar TV selalu memakai pengaturan yang terakhir diubah."
     ]
   }
 }
