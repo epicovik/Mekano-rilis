@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.162",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.162/Mekano.apk",
-    "size": 4400226,
-    "sha256": "c8ee296758ab2425e9ac97362f0650835743711da3e4dd9456f9d14d5506b1d4",
+    "version": "1.0.163",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.163/Mekano.apk",
+    "size": 4400462,
+    "sha256": "6ea0964abe56cb55ad7ae08ee3dd9f38303255f5515d0ecc7d8794e0aea9c74d",
     "at": "2026-11-16",
     "notes": [
-      "Perbaikan: pengaturan Antrean Live (termasuk link YouTube) kini mengikuti perubahan terbaru dari HP atau PC, jadi keduanya tidak saling menimpa dan layar TV selalu memakai pengaturan yang terakhir diubah."
+      "Baru: di kartu Tampilkan di TV bengkel ada Alamat singkat cadangan (mk.epicovik.workers.dev) dengan tombol salin, untuk TV yang tidak bisa membuka mekano.sbs. Cukup ketik alamat itu di browser TV, lalu hubungkan nomornya dari tombol Hubungkan TV."
     ]
   },
   "min": {
