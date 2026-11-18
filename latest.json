@@ -15,13 +15,14 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.51",
+    "version": "1.0.52",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120949987,
-    "sha256": "031d1600ba31584cab7c2f5053aa15659f7c37dc84eb8531e33bb498bda328c3",
-    "at": "2026-11-16",
+    "size": 120950569,
+    "sha256": "e31940087d709745447593359efb7ad30b490f4445f21a7ac5b97090c89b730b",
+    "at": "2026-11-18",
     "notes": [
-      "Baru: di kartu Tampilkan di TV bengkel ada Alamat singkat cadangan (mk.epicovik.workers.dev) dengan tombol salin, untuk TV yang tidak bisa membuka mekano.sbs. Cukup ketik alamat itu di browser TV, lalu hubungkan nomornya dari tombol Hubungkan TV."
+      "Baru: pembayaran SPK sekarang punya 3 pilihan: QRIS, Bank / Transfer, dan Kas (tunai). Saldo QRIS dicatat terpisah dan ikut tampil di Keuangan, Kasir (ringkasan harian), Laporan, neraca, dan Pajak; ada pilihan Pindah kas \"QRIS → Bank\" untuk pencairan QRIS. Pembayaran QRIS di Kasir kini masuk ke saldo QRIS.",
+      "Baru: satu SPK bisa dikerjakan beberapa mekanik. Di form SPK ketuk beberapa nama sekaligus. Jasa SPK dibagi rata ke mekanik yang mengerjakan di Jasa per mekanik."
     ]
   }
 }
