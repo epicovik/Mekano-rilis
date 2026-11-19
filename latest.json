@@ -1,13 +1,12 @@
 {
   "android": {
-    "version": "1.0.164",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.164/Mekano.apk",
-    "size": 4400998,
-    "sha256": "840c32cf23c78e5fc88922efe3a632a7402ca55ba4cebd85ef6969e87cfedb71",
-    "at": "2026-11-18",
+    "version": "1.0.165",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.165/Mekano.apk",
+    "size": 4401246,
+    "sha256": "863cc66c1a05c7652998cc49e764c6c8c5559e2922960e3c623fa394d3665cd2",
+    "at": "2026-11-19",
     "notes": [
-      "Baru: pembayaran SPK sekarang punya 3 pilihan: QRIS, Bank / Transfer, dan Kas (tunai). Saldo QRIS dicatat terpisah dan ikut tampil di Keuangan, Kasir (ringkasan harian), Laporan, neraca, dan Pajak; ada pilihan Pindah kas \"QRIS → Bank\" untuk pencairan QRIS. Pembayaran QRIS di Kasir kini masuk ke saldo QRIS.",
-      "Baru: satu SPK bisa dikerjakan beberapa mekanik. Di form SPK ketuk beberapa nama sekaligus. Jasa SPK dibagi rata ke mekanik yang mengerjakan di Jasa per mekanik."
+      "Perbaikan: pengaturan Antrean Live di TV tidak lagi tertimpa. Sebelumnya, mengubah satu pengaturan TV (mis. nama atau gaya) di HP atau PC yang salinannya belum punya link YouTube bisa membuat pemutar YouTube di TV hilang. Sekarang hanya bagian yang Anda ubah yang disimpan, link YouTube tetap aman."
     ]
   },
   "min": {
