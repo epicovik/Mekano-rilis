@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.53",
+    "version": "1.0.54",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120950672,
-    "sha256": "eb9fb11a9a5e836108862357de32c93b8a5fa1872c88412f4f0b99493d790159",
-    "at": "2026-11-19",
+    "size": 120951538,
+    "sha256": "744d1152e9ef304f11c3367c00933676a8e35806f6e288c2ce98e7634ae3de39",
+    "at": "2026-11-20",
     "notes": [
-      "Perbaikan: pengaturan Antrean Live di TV tidak lagi tertimpa. Sebelumnya, mengubah satu pengaturan TV (mis. nama atau gaya) di HP atau PC yang salinannya belum punya link YouTube bisa membuat pemutar YouTube di TV hilang. Sekarang hanya bagian yang Anda ubah yang disimpan, link YouTube tetap aman."
+      "Perbaikan: kolom \"Harga beli\" di Ubah Barang tampak bisa diketik padahal perubahannya tidak tersimpan. Sekarang kolomnya jelas terkunci dan bernama \"Harga pokok rata-rata\" (dihitung otomatis tiap ada barang masuk). Untuk membetulkan salah catat, Pemilik bisa memakai tombol baru \"Koreksi harga pokok\": selisih nilai stok otomatis dicatat di pembukuan sebagai selisih persediaan, dan tercatat di riwayat stok barang."
     ]
   }
 }
