@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.57",
+    "version": "1.0.58",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120953489,
-    "sha256": "8e116109365161c3667306bc21665f91c12e896c67c68826531b14409116abe8",
+    "size": 120953605,
+    "sha256": "9017daeb9d96107b71d84ef3b06846ffeb8420e76faacac4a965b5c5cfba2290",
     "at": "2026-11-20",
     "notes": [
-      "Perbaikan kecil tampilan layar lebar: menu samping bisa digulir di layar pendek, tombol akun Pemilik/Kasir di pojok kanan atas, keranjang Kasir tidak tertimpa tombol Bayar, dan tabel Stok menyesuaikan lebar layar."
+      "Tidak ada perubahan untuk versi PC (perbaikan tombol Kembali khusus aplikasi Android)."
     ]
   }
 }
