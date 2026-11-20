@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.166",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.166/Mekano.apk",
-    "size": 4402278,
-    "sha256": "12fbc9a47120356da206791975678dec13c736e1329160f8c036b8312de43efe",
+    "version": "1.0.167",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.167/Mekano.apk",
+    "size": 4403650,
+    "sha256": "880e43c7338f1e8839d4b7d0cb4278b790b23d1edcdcd246e1aad431392fa9d6",
     "at": "2026-11-20",
     "notes": [
-      "Perbaikan: kolom \"Harga beli\" di Ubah Barang tampak bisa diketik padahal perubahannya tidak tersimpan. Sekarang kolomnya jelas terkunci dan bernama \"Harga pokok rata-rata\" (dihitung otomatis tiap ada barang masuk). Untuk membetulkan salah catat, Pemilik bisa memakai tombol baru \"Koreksi harga pokok\": selisih nilai stok otomatis dicatat di pembukuan sebagai selisih persediaan, dan tercatat di riwayat stok barang."
+      "Perbaikan: tombol Kembali di HP sekarang tidak langsung keluar aplikasi. Urutannya: menutup SPK/dialog yang sedang terbuka, lalu kembali ke menu sebelumnya, lalu ke Beranda. Di Beranda, tekan Kembali sekali lagi untuk keluar. Dialog isian yang dikunci tetap ditutup lewat tombol ✕ agar data tidak hilang tidak sengaja."
     ]
   },
   "min": {
