@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.59",
+    "version": "1.0.60",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120953854,
-    "sha256": "90c682f3cba355f3078002bf775fdfe6fd125e4c6c1fbb959c787ee1b8f60fb3",
+    "size": 120953973,
+    "sha256": "3993e44adf914703f6afb48e81ca973c67a86c3399cd030867527e94ebef1992",
     "at": "2026-11-20",
     "notes": [
-      "Baru: pilihan tampilan musik YouTube di layar TV antrean. Di Pengaturan > Antrean Live (TV) > Putar musik YouTube, pilih \"Video penuh\" atau \"Judul + grafik\". Judul + grafik menampilkan panel kecil berisi judul lagu, nama artis, dan grafik naik turun (hiasan, tidak mengikuti suara)."
+      "Baru: pilihan tampilan musik YouTube di layar TV antrean. Di Pengaturan > Antrean Live (TV) > Putar musik YouTube, pilih \"Video penuh\" atau \"Judul + grafik\". Judul + grafik menampilkan panel kecil berisi judul lagu, nama artis, dan grafik naik turun (hiasan, tidak mengikuti suara). Video tetap tampil sebagai kotak kecil di sisi kiri panel (sesuai aturan YouTube)."
     ]
   }
 }
