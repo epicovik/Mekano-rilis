@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.56",
+    "version": "1.0.57",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120952744,
-    "sha256": "c356ab3c7b4c02e4c33c74f6356bae30414383d8059981581274b0720c05a66c",
+    "size": 120953489,
+    "sha256": "8e116109365161c3667306bc21665f91c12e896c67c68826531b14409116abe8",
     "at": "2026-11-20",
     "notes": [
-      "Perbaikan: dialog isian (Mekanik Baru, Barang Baru, dll.) tidak lagi tertutup kalau area di luar dialog tidak sengaja diklik, jadi isian tidak hilang. Tutup lewat Batal atau ✕."
+      "Perbaikan kecil tampilan layar lebar: menu samping bisa digulir di layar pendek, tombol akun Pemilik/Kasir di pojok kanan atas, keranjang Kasir tidak tertimpa tombol Bayar, dan tabel Stok menyesuaikan lebar layar."
     ]
   }
 }
