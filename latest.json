@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.168",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.168/Mekano.apk",
-    "size": 4403858,
-    "sha256": "15d713121ad1c538ce174d41931a3cfc55ba174768d15b2e92ff16e7e2fedb03",
+    "version": "1.0.169",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.169/Mekano.apk",
+    "size": 4404778,
+    "sha256": "f48f37b602337b5a5bb4d6a375eb46057cc50aa3286aa2054868d7d51ac0bc18",
     "at": "2026-11-20",
     "notes": [
-      "Perbaikan: (1) Dialog isian (misalnya Mekanik Baru, Barang Baru) tidak lagi tertutup kalau layar di luar dialog tidak sengaja tersentuh, jadi isian tidak hilang. Tutup lewat Batal, ✕, atau tombol Kembali. (2) Tombol Kembali di HP/tablet dibuat lebih andal: menutup dialog atau SPK yang terbuka dulu, lalu ke menu sebelumnya, lalu ke Beranda, dan baru keluar dari Beranda."
+      "Perbaikan tampilan tablet (layar landscape): semua menu samping muat dan bisa digulir, tombol akun Pemilik/Kasir dipindah ke pojok kanan atas, pintasan keyboard dihilangkan di layar sentuh, keranjang Kasir tidak lagi tertimpa tombol Bayar, tabel Stok muat di layar, dan Servis memakai kartu progres seperti di HP (dua kolom) menggantikan papan kolom ala PC."
     ]
   },
   "min": {
