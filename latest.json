@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.167",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.167/Mekano.apk",
-    "size": 4403650,
-    "sha256": "880e43c7338f1e8839d4b7d0cb4278b790b23d1edcdcd246e1aad431392fa9d6",
+    "version": "1.0.168",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.168/Mekano.apk",
+    "size": 4403858,
+    "sha256": "15d713121ad1c538ce174d41931a3cfc55ba174768d15b2e92ff16e7e2fedb03",
     "at": "2026-11-20",
     "notes": [
-      "Perbaikan: tombol Kembali di HP sekarang tidak langsung keluar aplikasi. Urutannya: menutup SPK/dialog yang sedang terbuka, lalu kembali ke menu sebelumnya, lalu ke Beranda. Di Beranda, tekan Kembali sekali lagi untuk keluar. Dialog isian yang dikunci tetap ditutup lewat tombol ✕ agar data tidak hilang tidak sengaja."
+      "Perbaikan: (1) Dialog isian (misalnya Mekanik Baru, Barang Baru) tidak lagi tertutup kalau layar di luar dialog tidak sengaja tersentuh, jadi isian tidak hilang. Tutup lewat Batal, ✕, atau tombol Kembali. (2) Tombol Kembali di HP/tablet dibuat lebih andal: menutup dialog atau SPK yang terbuka dulu, lalu ke menu sebelumnya, lalu ke Beranda, dan baru keluar dari Beranda."
     ]
   },
   "min": {
