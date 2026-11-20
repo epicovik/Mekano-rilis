@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.54",
+    "version": "1.0.55",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120951538,
-    "sha256": "744d1152e9ef304f11c3367c00933676a8e35806f6e288c2ce98e7634ae3de39",
+    "size": 120952414,
+    "sha256": "64849ba3245c0088b45f17c1b23409b77fd2ae330e73c73f4446418b45c368eb",
     "at": "2026-11-20",
     "notes": [
-      "Perbaikan: kolom \"Harga beli\" di Ubah Barang tampak bisa diketik padahal perubahannya tidak tersimpan. Sekarang kolomnya jelas terkunci dan bernama \"Harga pokok rata-rata\" (dihitung otomatis tiap ada barang masuk). Untuk membetulkan salah catat, Pemilik bisa memakai tombol baru \"Koreksi harga pokok\": selisih nilai stok otomatis dicatat di pembukuan sebagai selisih persediaan, dan tercatat di riwayat stok barang."
+      "Tidak ada perubahan untuk versi PC (perbaikan tombol Kembali khusus aplikasi Android)."
     ]
   }
 }
