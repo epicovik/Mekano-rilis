@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.55",
+    "version": "1.0.56",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120952414,
-    "sha256": "64849ba3245c0088b45f17c1b23409b77fd2ae330e73c73f4446418b45c368eb",
+    "size": 120952744,
+    "sha256": "c356ab3c7b4c02e4c33c74f6356bae30414383d8059981581274b0720c05a66c",
     "at": "2026-11-20",
     "notes": [
-      "Tidak ada perubahan untuk versi PC (perbaikan tombol Kembali khusus aplikasi Android)."
+      "Perbaikan: dialog isian (Mekanik Baru, Barang Baru, dll.) tidak lagi tertutup kalau area di luar dialog tidak sengaja diklik, jadi isian tidak hilang. Tutup lewat Batal atau ✕."
     ]
   }
 }
