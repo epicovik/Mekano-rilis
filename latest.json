@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.170",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.170/Mekano.apk",
-    "size": 4404762,
-    "sha256": "9fb1217a66323af8561d0089d00676c0078ec66b5332fb67142784b378dbd7ba",
+    "version": "1.0.171",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.171/Mekano.apk",
+    "size": 4404962,
+    "sha256": "528600c21cd28ebd4cd81264457dda73bc5da509470c6ec7c48e5b9e4e8e8ec5",
     "at": "2026-11-20",
     "notes": [
-      "Perbaikan: tombol/gestur Kembali di HP dan tablet kini benar-benar ditangani aplikasi (sebelumnya langsung menutup aplikasi). Urutannya: menutup SPK/dialog yang terbuka, lalu kembali ke menu sebelumnya, lalu ke Beranda. Di Beranda, tekan Kembali dua kali untuk keluar."
+      "Baru: pilihan tampilan musik YouTube di layar TV antrean. Di Pengaturan > Antrean Live (TV) > Putar musik YouTube, pilih \"Video penuh\" atau \"Judul + grafik\". Judul + grafik menampilkan panel kecil berisi judul lagu, nama artis, dan grafik naik turun (hiasan, tidak mengikuti suara). Suara tetap diputar seperti biasa."
     ]
   },
   "min": {
