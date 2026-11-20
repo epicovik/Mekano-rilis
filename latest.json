@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.58",
+    "version": "1.0.59",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120953605,
-    "sha256": "9017daeb9d96107b71d84ef3b06846ffeb8420e76faacac4a965b5c5cfba2290",
+    "size": 120953854,
+    "sha256": "90c682f3cba355f3078002bf775fdfe6fd125e4c6c1fbb959c787ee1b8f60fb3",
     "at": "2026-11-20",
     "notes": [
-      "Tidak ada perubahan untuk versi PC (perbaikan tombol Kembali khusus aplikasi Android)."
+      "Baru: pilihan tampilan musik YouTube di layar TV antrean. Di Pengaturan > Antrean Live (TV) > Putar musik YouTube, pilih \"Video penuh\" atau \"Judul + grafik\". Judul + grafik menampilkan panel kecil berisi judul lagu, nama artis, dan grafik naik turun (hiasan, tidak mengikuti suara)."
     ]
   }
 }
