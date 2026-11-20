@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.171",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.171/Mekano.apk",
+    "version": "1.0.172",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.172/Mekano.apk",
     "size": 4404962,
-    "sha256": "528600c21cd28ebd4cd81264457dda73bc5da509470c6ec7c48e5b9e4e8e8ec5",
+    "sha256": "ea6bfc799298ae3cdbe1f84c48c1432dfa170be520d0e2845d20a8c701212cc2",
     "at": "2026-11-20",
     "notes": [
-      "Baru: pilihan tampilan musik YouTube di layar TV antrean. Di Pengaturan > Antrean Live (TV) > Putar musik YouTube, pilih \"Video penuh\" atau \"Judul + grafik\". Judul + grafik menampilkan panel kecil berisi judul lagu, nama artis, dan grafik naik turun (hiasan, tidak mengikuti suara). Suara tetap diputar seperti biasa."
+      "Baru: pilihan tampilan musik YouTube di layar TV antrean. Di Pengaturan > Antrean Live (TV) > Putar musik YouTube, pilih \"Video penuh\" atau \"Judul + grafik\". Judul + grafik menampilkan panel kecil berisi judul lagu, nama artis, dan grafik naik turun (hiasan, tidak mengikuti suara). Video tetap tampil sebagai kotak kecil di sisi kiri panel (sesuai aturan YouTube)."
     ]
   },
   "min": {
