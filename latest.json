@@ -14,13 +14,13 @@
     "pc": ""
   },
   "pc": {
-    "version": "1.0.61",
+    "version": "1.0.62",
     "url": "https://github.com/epicovik/Mekano-rilis/releases/download/pc-terbaru/Mekano-Setup.exe",
-    "size": 120954098,
-    "sha256": "898160b0504b420080894c7e55ab7223218c8f3249ee483a376f48ef43bb1b63",
+    "size": 120954075,
+    "sha256": "75fdde0efb155e5bad0b5c3bba7a4f8b25c2afaf2f58911712ddb2da1fa24cc5",
     "at": "2026-11-21",
     "notes": [
-      "Servis: daftar kosong menyebut kata pencarian aktif dan ada tombol Hapus pencarian."
+      "Servis: kolom pencarian dikosongkan otomatis saat pindah dari menu Servis; daftar kosong menyebut kata pencarian aktif dan ada tombol Hapus pencarian."
     ]
   }
 }
