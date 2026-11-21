@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.173",
-    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.173/Mekano.apk",
-    "size": 4405150,
-    "sha256": "36001cb344169705e66f16d509eaaef06bd2d0a94b766b7546b23cda657e1f6c",
+    "version": "1.0.174",
+    "url": "https://github.com/epicovik/Mekano-rilis/releases/download/v1.0.174/Mekano.apk",
+    "size": 4405210,
+    "sha256": "d0453b04f02f3ca76d1f9a6da827cb9a91863568a4bcd37b81189017ca7ba071",
     "at": "2026-11-21",
     "notes": [
-      "Servis: daftar kosong menyebut kata pencarian aktif dan ada tombol Hapus pencarian."
+      "Servis: kolom pencarian dikosongkan otomatis saat pindah dari menu Servis; daftar kosong menyebut kata pencarian aktif dan ada tombol Hapus pencarian."
     ]
   },
   "min": {
